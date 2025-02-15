@@ -6,7 +6,8 @@ navbar-links:
   Some Resources:
     - Surveys and Reviews: "https://beautifuljekyll.com"
     - Open-Source Software: ""
-  Program Committee: "https://github.com/Evolutionary-Intelligence/PSO-30-SI"
+  Program Committee:
+    - PSO30: "https://github.com/Evolutionary-Intelligence/PSO-30-SI"
 
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
