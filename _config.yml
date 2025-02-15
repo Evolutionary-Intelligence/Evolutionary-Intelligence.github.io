@@ -6,11 +6,10 @@ author: Qiqi Duan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Basic Information: "aboutme"
+  Some Resources:
+    - Paper Suvery: "https://beautifuljekyll.com"
+  Program Committee: ""
 
 ################
 # --- Logo --- #
