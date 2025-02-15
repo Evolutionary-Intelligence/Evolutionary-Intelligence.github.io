@@ -23,29 +23,13 @@ share-links-active:
 
 url-pretty: "https://evolutionary-intelligence.github.io/"
 title-on-all-pages: false
-
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
-
-# Whether or not to show an excerpt for every blog post in the feed page
+excerpt_length: 77
 feed_show_excerpt: true
-
-# Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
-
-# Add a search button to the navbar
 post_search: true
-
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
-
-# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
-# If this setting is off, then long sub-menu words might get cut off
-# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "swarm intelligence,evolutionary computation,artificial life,"
 
 ######################################
 # --- Colours / background image --- #
