@@ -1,9 +1,5 @@
 title: Seminar on 30-Year Particle Swarm Optimization (PSO) and Its Same Kind Inspired by Swarm Intelligence (SI)
-author: Qiqi Duan
-
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
+author: Qiqi Duan @ SUSTech, China
 
 navbar-links:
   Basic Information: "aboutme"
@@ -12,15 +8,7 @@ navbar-links:
     - Open-Source Software: ""
   Program Committee: ""
 
-################
-# --- Logo --- #
-################
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar-icon.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
