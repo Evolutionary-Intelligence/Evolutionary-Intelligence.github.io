@@ -10,8 +10,8 @@ author: Qiqi Duan
 ---
 
 For details on this Special Session organized by Leonardo Vanneschi, Marco S. Nobile, and Vasco Coelho,
-please refer to [https://www.evostar.org/2025/evoapps/pso/](https://www.evostar.org/2025/evoapps/pso/)
+please refer to [https://www.evostar.org/2025/evoapps/pso/](https://www.evostar.org/2025/evoapps/pso/) directly.
 
 
 
-Figure Copyright: [https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery](https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery)
+Copyright of the Background Figure: [https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery](https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery).
