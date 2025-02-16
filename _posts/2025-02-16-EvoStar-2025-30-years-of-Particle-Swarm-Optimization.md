@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 30 years of Particle Swarm Optimization (PSO) in EvoStar-2025
-subtitle: "The goal of this special session is to pay tribute to Kennedy, Eberhart and Shi’s algorithm, by bringing together the best researchers working on PSO.---From https://www.evostar.org/2025/evoapps/pso/"
+subtitle: "`The goal of this special session is to pay tribute to Kennedy, Eberhart and Shi’s algorithm, by bringing together the best researchers working on PSO.`---From https://www.evostar.org/2025/evoapps/pso/"
 cover-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
 thumbnail-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
 share-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
