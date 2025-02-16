@@ -8,3 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [EvoStar, PSO]
 author: Qiqi Duan
 ---
+
+For details on this Special Session organized by Leonardo Vanneschi, Marco S. Nobile, and Vasco Coelho,
+please refer to [https://www.evostar.org/2025/evoapps/pso/](https://www.evostar.org/2025/evoapps/pso/)
