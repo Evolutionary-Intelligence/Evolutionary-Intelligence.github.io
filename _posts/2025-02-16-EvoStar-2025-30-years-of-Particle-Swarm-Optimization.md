@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: EvoStar-2025: 30 years of Particle Swarm Optimization (PSO)
+subtitle: "The goal of this special session is to pay tribute to Kennedy, Eberhart and Shi’s algorithm, by bringing together the best researchers working on PSO.---From https://www.evostar.org/2025/evoapps/pso/"
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [EvoStar, PSO]
+author: Qiqi Duan
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
