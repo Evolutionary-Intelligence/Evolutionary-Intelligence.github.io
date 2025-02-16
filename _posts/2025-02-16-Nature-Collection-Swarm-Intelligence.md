@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Swarm intelligence
-subtitle: "Collective motions from biology to robotic in Nature Collection"
+title: Call for Papers on Swarm Intelligence in Nature Collection
+subtitle: "Collective motions from biology to robotic"
 cover-img: /assets/img/Nature_SwarmIntelligence.jpg
 thumbnail-img: /assets/img/Nature_SwarmIntelligence.jpg
 share-img: /assets/img/Nature_SwarmIntelligence.jpg
