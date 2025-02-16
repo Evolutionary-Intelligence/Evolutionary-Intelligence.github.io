@@ -5,7 +5,7 @@ subtitle: "The goal of this special session is to pay tribute to Kennedy, Eberha
 cover-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
 thumbnail-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
 share-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
-tags: [EvoStar, PSO]
+tags: [Bio-Inspired Randomized Optimization, Black-Box Optimization, EvoStar, Global Optimization, PSO, Swarm Intelligence]
 author: Qiqi Duan
 ---
 
