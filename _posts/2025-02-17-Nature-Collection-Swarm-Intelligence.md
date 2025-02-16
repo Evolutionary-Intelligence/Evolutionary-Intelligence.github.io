@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swarm intelligence - Collective motions from biology to robotic in Nature Collection
+title: Swarm intelligence on Collective motions from biology to robotic in Nature Collection
 subtitle: "All the submissions will be subject to the same peer review process and editorial standard as regular Nature Communications, Communications Physics, Communications Engineering, and Scientific Reports."
 cover-img: /assets/img/Nature_SwarmIntelligence.jpg
 thumbnail-img: /assets/img/Nature_SwarmIntelligence.jpg
