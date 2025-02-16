@@ -2,9 +2,9 @@ title: Seminar on 30-Year Particle Swarm Optimization (PSO) and Its Same Kind In
 author: Qiqi Duan @ SUSTech, China
 
 navbar-links:
-  Basic Information: "aboutme"
+  Basic Information: "basic_information"
   Some Resources:
-    - Surveys and Reviews: "https://beautifuljekyll.com"
+    - Surveys and Reviews: ""
     - Open-Source Software: ""
   Program Committee:
     - PSO30: "https://github.com/Evolutionary-Intelligence/PSO-30-SI"
