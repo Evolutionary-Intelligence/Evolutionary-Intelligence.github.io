@@ -43,16 +43,6 @@ Developing and maintaining Beautiful Jekyll takes a lot of time and effort - tha
 
 # Build your website in 3 steps
 
-There are a few different ways to build a website using Beautiful Jekyll, and this document will go through the simplest one: using a fork on GitHub. For most people (including myself!), this easy method is the recommended one.
-
-Even if you choose to use one of the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard), I still suggest you read through the easy method first.
-
-## The easy way (recommended!)
-
-Getting started is *literally* as easy as 1-2-3 :smile:
-
-Scroll down to see the steps involved, but here is a 30-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com), you'll need to sign up.
-
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
 
 ### 1. Fork this project
