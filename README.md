@@ -1,29 +1,5 @@
 # Website for [Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
 
-## Table of contents
-
-- [Features](#features)
-- [Sponsors 🏆](#sponsors)
-- [**Build your website in 3 steps**](#build-your-website-in-3-steps)
-- [Plans](#plans)
-- [Add your own content](#add-your-own-content)
-- [Customizing parameters for each page](#customizing-parameters-for-each-page)
-- [Supported parameters](#supported-parameters)
-- [Featured users (success stories!)](#featured-users-success-stories)
-- [Next steps](#next-steps)
-- [Getting help](#getting-help)
-- [Credits and contributions](#contributions)
-
-# Features
-
-__Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the latest features!__
-
-- **SIMPLE**: The primary goal of Beautiful Jekyll is to allow literally *anyone* to create a website in a few minutes.
-- **Modern**: Uses the latest best practices and technologies to achieve nearly perfect scores on Google Chrome's Audit.
-- **Mobile-first**: Designed to look great on both large-screen and small-screen (mobile) devices.
-
-**[Become a sponsor for Beautiful Jekyll and unlock new features\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
-
 # Build your website in 3 steps
 
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
