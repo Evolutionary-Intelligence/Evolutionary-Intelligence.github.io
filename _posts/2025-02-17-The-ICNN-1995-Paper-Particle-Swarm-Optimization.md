@@ -18,4 +18,8 @@ In the writting of this post, the Citation Number is **Cited by
 [ieeexplore](https://ieeexplore.ieee.org/abstract/document/488968)
 for the full paper **Particle swarm optimization**.
 
+
+
+Copyright of the Background Figure: [https://www.nature.com/collections/cgbgjbahac](https://www.nature.com/collections/cgbgjbahac).
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
