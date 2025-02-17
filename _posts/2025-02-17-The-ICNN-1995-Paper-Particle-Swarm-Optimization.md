@@ -14,6 +14,6 @@ Recently, The ICNN-1995 Paper `Particle swarm optimization` of
 90K times. For detail, please refer to
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Particle+swarm+optimization&btnG=).
 In the writting of this post, the Citation Number is **Cited by
-90791** by *Google Scholar*. Please refer to
+90791** according to *Google Scholar*. Please refer to
 [ieeexplore](https://ieeexplore.ieee.org/abstract/document/488968)
 for the full paper **Particle swarm optimization**.
