@@ -11,6 +11,8 @@ author: Qiqi Duan
 
 For details on Dynamic Particle Swarm Optimization, please refer to [https://www.nature.com/articles/s42256-021-00366-3](https://www.nature.com/articles/s42256-021-00366-3) directly.
 
+## Institutions
+
 - Karlsruhe Institute of Technology (KIT)
 - German Cancer Research Center (DKFZ)
 - University Hospital Heidelberg
@@ -18,7 +20,9 @@ For details on Dynamic Particle Swarm Optimization, please refer to [https://www
 - Jülich Supercomputing Centre (JSC)
 - University of Duisburg-Essen
 
+## Computing Platform
 
+On a supercomputer with about 1000 cores, PSO was run ~40000 core hours.
 
 Copyright of the Background Figure: [https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery](https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery).
 
