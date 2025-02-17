@@ -1,13 +1,5 @@
 # Website for [Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
 
-# Build your website in 3 steps
-
-![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
-
-### 1. Fork this project
-
-Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
-
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
 You'll see the word "repository" used a lot in GitHub - it simply means "project". Under __*Repository name*__ you should see the name `beautiful-jekyll`, this is where you need to rename your project to `YOURUSERNAME.github.io` (replace `YOURUSERNAME` with your GitHub user name). It's important to use this exact name so that GitHub will recognize it and automatically create a website for this project.   
