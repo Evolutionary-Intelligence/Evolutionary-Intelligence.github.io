@@ -9,7 +9,7 @@ tags: [PSO, Swarm Intelligence]
 author: Qiqi Duan
 ---
 
-Recently, The ICNN-1995 Paper `Particle swarm optimization` of
+Recently, the ICNN-1995 Paper `Particle swarm optimization` of
 **J. Kennedy** and **R. Eberhart** has been cited more than
 90K times. For detail, please refer to
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Particle+swarm+optimization&btnG=).
