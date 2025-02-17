@@ -19,4 +19,6 @@ This website mainly covers the following research topics:
 
 # Core Maintainer
 
-Qiqi Duan
+## Qiqi Duan
+
+- Member in Program Committee of [ALIFE 2025](https://2025.alife.org/)
