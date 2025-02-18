@@ -47,6 +47,8 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - 2022 **Best Paper Nomination** in one of *representative* EC conferences PPSN (CCF-B): [Collective Learning
   of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
   - More than 1K Accesses
+- IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/Swarm Robots/SI for optimization problems
+  - With Prof. Sanaz Mostaghim
 - From 2021: One of Core Members of Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597
   (Prof. Shi, *2,000,000 Yuan* to 2023) for **Distributed Evolutionary Algorithms**
 - 2018 PPSN (CCF-B): Distributed PSO on **Spark** 
