@@ -11,11 +11,12 @@ This website mainly covers the following research topics:
 - **Evolutionary Computation (EC)**
   - **Distributed Evolutionary Algorithms (DEAs)**
   - **Meta-Evolutionary Algorithms (MEAs)**
-- **Swarm Intelligence**
+- **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
   - **Consensus-Based Optimization (CBO)**
 - **Artifical Life**
+  - **Open-Ennded Evolution (OEE)**
 - **Continual Learning**
 - **Complex Systems**
   - **Adaptive Complex Systems**
