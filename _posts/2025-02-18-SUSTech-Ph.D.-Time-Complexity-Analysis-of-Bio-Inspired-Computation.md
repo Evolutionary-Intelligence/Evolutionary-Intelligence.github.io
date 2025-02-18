@@ -52,8 +52,6 @@ and/or the advantages of recombination over mutation-only algorithms;
 
 # About the University/Department
 
-Established in 2010 with the mission to reform Chinese tertiary education and become a top-notch
-international research university, SUSTech was launched in the tech capital city of Shenzhen.
 SUSTech is becoming the important epicentre for China’s science and technology academic research
 and for the cultivation of innovative minds. The rapid ascent of SUSTech onto the global stage is
 remarkable. In the Times Higher Education (THE) World university Rankings 2023, it ranked 8th in
@@ -73,10 +71,9 @@ thriving ecosystem of entrepreneurship, innovation and research. Some 43 per cen
 patent applications in China came from Shenzhen in 2017, and the city shows no signs of slowing
 down. As China’s research and development center, it is the perfect place for entrepreneurs,
 researchers and innovators alike to make their home alongside tech giants such as Huawei, Tencent,
-BYD, DJI, BJI and Mindray.
+BYD, DJI, BJI and Mindray. Shenzhen is also only distant 17 minutes from Hong Kong city centre by
+high speed train and about an hour from Macau by ferry.
 
-Shenzhen is also only distant 17 minutes from Hong Kong city centre by high speed train and about
-an hour from Macau by ferry.
 The successful candidate will join the recently established AI-Theory Lab in the department of
 Computer Science and Engineering with world-leading expertise in bio-inspired computation.
 
