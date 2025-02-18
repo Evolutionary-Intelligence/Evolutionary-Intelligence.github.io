@@ -9,8 +9,12 @@ subtitle: Research Topics and Activities
 This website mainly covers the following research topics:
 
 - **Evolutionary Computation (EC)**
-  - **Evolutionary Algorithms**
+  - **Distributed Evolutionary Algorithms (DEAs)**
+  - **Meta-Evolutionary Algorithms (MEAs)**
 - **Swarm Intelligence**
+  - **Ant Colony Optimization (ACO)**
+  - **Particle Swarm Optimization (PSO)**
+  - **Consensus-Based Optimization (CBO)**
 - **Artifical Life**
 - **Continual Learning**
 
