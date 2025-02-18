@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ph.D. Opportunities in Time Complexity Analysis of Bio-Inspired Computation in SUSTech, China 
+title: Ph.D. Opportunities in Time-Complexity Analysis of Bio-Inspired Computation in SUSTech, China 
 subtitle: "Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), Shenzhen, China"
 cover-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
 thumbnail-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
