@@ -17,6 +17,7 @@ This website mainly covers the following research topics:
 
 Each time the **HomePage** of this website selects a specific research activity as shown below.
 
+- **2025**: [Applications of 30-Year CMA-ES from 1995 to 2025]()
 - **2025**: [A Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI) from 1995 to 2025](https://github.com/Evolutionary-Intelligence/PSO-30-SI)
 
 # Core Maintainer
@@ -24,4 +25,4 @@ Each time the **HomePage** of this website selects a specific research activity 
 ## Qiqi Duan
 
 - Member in Program Committee of [ALIFE 2025](https://2025.alife.org/)
-- 2022 Best Paper Nomination in one of *representative* EC conferences PPSN (CCF-B): [**Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization**](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
+- 2022 Best Paper Nomination in one of *representative* EC conferences PPSN (CCF-B): [**Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization**](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20) (>1K Accesses)
