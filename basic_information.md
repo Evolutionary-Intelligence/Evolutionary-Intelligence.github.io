@@ -49,8 +49,8 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - More than 1K Accesses
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/Swarm Robots/SI for optimization problems
   - With Prof. Sanaz Mostaghim
-- From 2021: One of Core Members of Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597
-  (Prof. Shi, *2,000,000 Yuan* to 2023) for **Distributed Evolutionary Algorithms**
+- From 2021: One of Core Members (Led by Prof. Shi) of Shenzhen Fundamental Research Program under Grant No.
+  JCYJ20200109141235597 (*2,000,000 Yuan* to 2023) for **Distributed Evolutionary Algorithms**
 - 2018 PPSN (CCF-B): Distributed PSO on **Spark** 
 
 
