@@ -31,15 +31,24 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ## Qiqi Duan
 
-- IEEE CEC-2025 Tutorial (with Yuhui Shi, Qi Zhao, Lijun Sun): [**Meta-Evolution**: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
+- IEEE CEC-2025 Tutorial: [**Meta-Evolution**: Biological Backgrounds, Design Principles, Meta-Diversity, and
+  Distributed
+  Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
+  - With Prof. Yuhui Shi, Dr. Qi Zhao, Dr. Lijun Sun
 - Member in Program Committee of [**ALIFE 2025**](https://2025.alife.org/)
   - Thanks very much for Lana Sinapayen and Silvia Holler
-- 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
-- 2024 TPDS (CCF-A): [Distributed Evolution Strategies With **Multi-Level Learning** for Large-Scale Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
-- 2022 **Best Paper Nomination** in one of *representative* EC conferences PPSN (CCF-B): [Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20) (>1K Accesses)
-- From 2021: One of Core Members of Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597 (Prof. Shi, *2,000,000 Yuan* to 2023) for **Distributed Evolutionary Algorithms**
+- 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
+  Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
+  - Thanks very much for Guochen Zhou and Chang Shao etc.
+- 2024 TPDS (CCF-A): [Distributed Evolution Strategies With **Multi-Level Learning** for Large-Scale Black-Box
+  Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
+- 2022 **Best Paper Nomination** in one of *representative* EC conferences PPSN (CCF-B): [Collective Learning
+  of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
+  - >1K Accesses
+- From 2021: One of Core Members of Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597
+  (Prof. Shi, *2,000,000 Yuan* to 2023) for **Distributed Evolutionary Algorithms**
 
 
 
-For details on this Special Session organized by Leonardo Vanneschi, Marco S. Nobile, and Vasco Coelho,
-please refer to [https://www.evostar.org/2025/evoapps/pso/](https://www.evostar.org/2025/evoapps/pso/) directly.
+For details on this Special Session organized by Leonardo Vanneschi, Marco S. Nobile, and Vasco Coelho, please
+refer to [https://www.evostar.org/2025/evoapps/pso/](https://www.evostar.org/2025/evoapps/pso/) directly.
