@@ -9,6 +9,7 @@ subtitle: Research Topics and Activities
 This website mainly covers the following research topics:
 
 - **Evolutionary Computation (EC)**
+  - **Evolutionary Algorithms**
 - **Swarm Intelligence**
 - **Artifical Life**
 - **Continual Learning**
