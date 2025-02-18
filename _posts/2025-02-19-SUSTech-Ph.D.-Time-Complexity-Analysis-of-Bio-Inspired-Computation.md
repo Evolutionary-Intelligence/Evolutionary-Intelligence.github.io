@@ -96,19 +96,19 @@ well as popular western and eastern fast food chains. Funding is available for c
 and collaborative research visits to related organizations world-wide. The AI-Theory Lab at
 SUSTech maintains effective collaborations with all the research organisations with major expertise
 in the theory of bio-inspired computation world-wide.
-Supervisor Bio
-Professor Pietro S. Oliveto is Chair of the AI-Theory Lab at SUSTech. His main research interest is
+
+# Supervisor Bio
+
+Professor Pietro S. Oliveto is Chair of the **AI-Theory Lab** at SUSTech. His main research interest is
 the rigorous performance analysis of bio-inspired computation techniques. He has successfully
 supervised PhD projects on the theoretical foundations of evolutionary computation, artificial
 immune systems, hyper-heuristics and automatic algorithm configurators.
 
-To apply for this position send your CV and academic transcripts of previous degrees in English to
-Prof. Pietro Oliveto at: olivetop@sustech.edu.cn
+To apply for this Ph.D. position, please send your CV and academic transcripts of previous degrees in English
+to **Prof. Pietro Oliveto** at: olivetop@sustech.edu.cn
 
-Webpages:
-
-[https://www.sustech.edu.cn/en/faculties/pietrooliveto.html](https://www.sustech.edu.cn/en/faculties/pietrooliveto.html)
-[https://peteroliveto.github.io/](https://peteroliveto.github.io/)
+* [https://www.sustech.edu.cn/en/faculties/pietrooliveto.html](https://www.sustech.edu.cn/en/faculties/pietrooliveto.html)
+* [https://peteroliveto.github.io/](https://peteroliveto.github.io/)
 
 
 
