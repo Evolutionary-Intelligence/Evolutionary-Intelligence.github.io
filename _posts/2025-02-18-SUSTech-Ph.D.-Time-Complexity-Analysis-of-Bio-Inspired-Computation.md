@@ -9,14 +9,15 @@ tags: [Bio-Inspired Computation, Theory, Randomized Search Heuristics, Evolution
 author: Qiqi Duan
 ---
 
-To apply for this Ph.D. position, please send your CV and academic transcripts of previous degrees in
-English to **Prof. Pietro Oliveto** at: olivetop@sustech.edu.cn
+To apply for this Ph.D. position, please send your CV and academic transcripts of previous degrees
+in English to **Prof. Pietro Oliveto** at: olivetop@sustech.edu.cn
 
 # Introduction
 
-Applications are invited for a **fully-funded** PhD studentship on the runtime analysis of bioinspired
-computation techniques such as evolutionary algorithms, genetic algorithms, artificial immune systems
-which are widely used heuristic search techniques at the heart of artificial intelligence.
+Applications are invited for a **fully-funded** Ph.D. studentship on the runtime analysis of
+bioinspired computation techniques such as evolutionary algorithms, genetic algorithms, artificial
+immune systems which are *widely-used* heuristic search techniques at the heart of artificial
+intelligence.
 
 # About the project
 
