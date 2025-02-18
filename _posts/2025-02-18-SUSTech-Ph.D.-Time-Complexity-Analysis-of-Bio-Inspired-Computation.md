@@ -19,7 +19,7 @@ bioinspired computation techniques such as evolutionary algorithms, genetic algo
 immune systems which are *widely-used* heuristic search techniques at the heart of artificial
 intelligence.
 
-# About the project
+# About the Project
 
 Bio-inspired meta-heuristics, such as evolutionary algorithms, genetic algorithms or artificial
 immune systems are general-purpose algorithms that mimic powerful mechanisms from nature such
