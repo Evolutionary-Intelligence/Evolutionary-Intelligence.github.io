@@ -36,7 +36,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
   Distributed
   Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. Yuhui Shi, Dr. Qi Zhao, Dr. Lijun Sun
-  - Thanks very much for Wei-neng Chen and Sanaz Mostaghim (two Tutorial chairs)
+  - Thanks very much for Prof. Wei-neng Chen and Prof. Sanaz Mostaghim (two Tutorial chairs)
 - Member in Program Committee of [**ALIFE 2025**](https://2025.alife.org/)
   - Thanks very much for Lana Sinapayen and Silvia Holler
 - 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
