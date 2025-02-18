@@ -79,16 +79,21 @@ Shenzhen is also only distant 17 minutes from Hong Kong city centre by high spee
 an hour from Macau by ferry.
 The successful candidate will join the recently established AI-Theory Lab in the department of
 Computer Science and Engineering with world-leading expertise in bio-inspired computation.
-Candidate Requirements
+
+# Candidate Requirements
+
 Applicants must have recently completed a first class (or equivalent) undergraduate degree or a
 Masters degree with distinction in Computer Science or close to completion. Outstanding applicants
 from Mathematics are also encouraged to apply. The successful applicant must have excellent
 analytical and computational skills. He/She must be an excellent team player who can work
 independently and communicate well with others. If English is not their first language, they must
-have an IELTS score of 6+ overall, with no less than 6.0 in each component or TOEFL of 75+. Since
-the project is theoretically challenging, strong mathematical and probability theory skills are required.
-This position is open to all qualified candidates independent of nationality.
-Funding and Eligibility
+have an IELTS score of 6+ overall, with no less than 6.0 in each component or TOEFL of 75+.
+
+Since the project is theoretically challenging, strong mathematical and probability theory skills
+are required. This position is open to all qualified candidates independent of nationality.
+
+# Funding and Eligibility
+
 This studentship covers the full tuition fee and provides a tax-free stipend up to RMB 150,000
 (approx. GBP 16,000/EUR 19,000) per annum for four years. The studentship also covers free oncampus
 accommodation and subsidized on-campus meals in over 10 different cafeterias/canteens as
