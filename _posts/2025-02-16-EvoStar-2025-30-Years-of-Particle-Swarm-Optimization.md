@@ -16,6 +16,9 @@ please refer to [https://www.evostar.org/2025/evoapps/pso/](https://www.evostar.
 
 Copyright of the Background Figure: [https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery](https://www.nationalgeographic.com/animals/article/these-birds-flock-in-mesmerizing-swarms-why-is-still-a-mystery).
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation): A
-summary of total number of visitors for [Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
-and [DistributedEvolutionaryComputation](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation).
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation):
+A summary of total number of visitors for
+[Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
+(News-Focused) and
+[DistributedEvolutionaryComputation](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation)
+(Paper-Focused).
