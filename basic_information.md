@@ -31,6 +31,7 @@ This website mainly covers the following research topics:
 
 Each time the **HomePage** of this website selects a **specific** research activity as shown below.
 
+- **2025**: [A Survey of Quality-Diversity from 2015 to 2025]()
 - **2025**: [Applications of 30-Year CMA-ES from 1995 to 2025]()
 - **2025**: [A Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI) from 1995 to 2025](https://github.com/Evolutionary-Intelligence/PSO-30-SI)
 
