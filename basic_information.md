@@ -12,10 +12,12 @@ This website mainly covers the following research topics:
   - **Distributed Evolutionary Algorithms (DEAs)**
   - **Meta-Evolutionary Algorithms (MEAs)**
   - **NeuroEvolution (NE)**
+  - **Evolutionary Robotics (ER)**
 - **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
   - **Consensus-Based Optimization (CBO)**
+  - **Swarm Robotics**
 - **Artifical Life**
   - **Open-Ennded Evolution (OEE)**
 - **Continual Learning**
