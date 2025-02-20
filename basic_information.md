@@ -20,7 +20,11 @@ This website mainly covers the following research topics:
   - **Particle Swarm Optimization (PSO)**
   - **Consensus-Based Optimization (CBO)**
   - **Swarm Robotics (SR)**
-  - **Neural Swarm (NS)**, e.g., for Flocking, Foundation Models, etc.
+  - **Neural Swarm (NS)**, e.g.,
+    - For Foundation Models: e.g.,
+      - [Model Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Model-Swarm-University-of-Washington-and-Google-Cloud-AI-Research-and-DeepMind/)
+    - For Flocking
+    - etc.
 - **Artifical Life**
   - **Open-Ennded Evolution (OEE)**
 - **Continual Learning**
