@@ -16,7 +16,7 @@ Google DeepMind,
 and Google,
 please refer to [https://arxiv.org/abs/2410.11163](https://arxiv.org/abs/2410.11163) directly.
 
-- Shangbin Feng: [https://bunsenfeng.github.io/](https://bunsenfeng.github.io/)'
+- Shangbin Feng: [https://bunsenfeng.github.io/](https://bunsenfeng.github.io/)
 
 
 
