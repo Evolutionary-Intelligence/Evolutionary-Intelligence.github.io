@@ -50,6 +50,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - With Dr. Qi Zhao etc.
 - 2025 **TMLR**: A Survery for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
+- 2024 PRICAI: **Box-Box Fine-Tuning** of LLMs (based on [Princeton's MeZO](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html))
 - 2024 ASOC (JCR Q1): **Convergence** Analysis of Cooperative Coevolution
   - With Dr. Chang Shao etc.
 - 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
