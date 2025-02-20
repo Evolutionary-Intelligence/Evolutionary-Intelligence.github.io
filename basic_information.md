@@ -33,7 +33,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - **2025**: [Applications of 30-Year CMA-ES from 1995 to 2025]()
 - **2025**: [A Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI) from 1995 to 2025](https://github.com/Evolutionary-Intelligence/PSO-30-SI)
 
-# Core Maintainer
+# Members of Core Maintainers
 
 ## Qiqi Duan
 
