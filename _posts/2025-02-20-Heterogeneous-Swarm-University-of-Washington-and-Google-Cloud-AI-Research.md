@@ -11,7 +11,7 @@ author: Qiqi Duan
 
 For details on **HETEROGENEOUS SWARMS** by researchers from
 University of Washington,
-and Google Cloud AI Research
+and Google Cloud AI Research,
 please refer to [https://arxiv.org/abs/2502.04510](https://arxiv.org/abs/2502.04510) directly.
 
 - Shangbin Feng: [https://bunsenfeng.github.io/](https://bunsenfeng.github.io/)
