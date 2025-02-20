@@ -18,6 +18,7 @@ This website mainly covers the following research topics:
   - **Particle Swarm Optimization (PSO)**
   - **Consensus-Based Optimization (CBO)**
   - **Swarm Robotics**
+  - **Neural Swarm**
 - **Artifical Life**
   - **Open-Ennded Evolution (OEE)**
 - **Continual Learning**
