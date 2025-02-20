@@ -13,7 +13,7 @@ This website mainly covers the following research topics:
   - **Meta-Evolutionary Algorithms (MEAs)**
   - **NeuroEvolution (NE)**
   - **Evolutionary Robotics (ER)**
-  - **Quality-Diversity**
+  - **Quality-Diversity (QD)**
 - **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
