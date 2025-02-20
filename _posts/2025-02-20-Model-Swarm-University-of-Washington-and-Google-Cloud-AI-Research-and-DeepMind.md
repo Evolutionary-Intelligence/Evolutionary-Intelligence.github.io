@@ -9,7 +9,7 @@ tags: [Model Swarm, Neural Swarm, PSO, Swarm Intelligence]
 author: Qiqi Duan
 ---
 
-For details on this **MODEL SWARMS** by researchers from
+For details on **MODEL SWARMS** by researchers from
 University of Washington,
 Google Cloud AI Research,
 Google DeepMind,
