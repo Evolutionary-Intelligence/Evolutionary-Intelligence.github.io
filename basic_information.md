@@ -13,12 +13,13 @@ This website mainly covers the following research topics:
   - **Meta-Evolutionary Algorithms (MEAs)**
   - **NeuroEvolution (NE)**
   - **Evolutionary Robotics (ER)**
+  - **Quality-Diversity**
 - **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
   - **Consensus-Based Optimization (CBO)**
   - **Swarm Robotics (SR)**
-  - **Neural Swarm (NS)**, e.g., Flocking
+  - **Neural Swarm (NS)**, e.g., for Flocking, Foundation Models, etc.
 - **Artifical Life**
   - **Open-Ennded Evolution (OEE)**
 - **Continual Learning**
