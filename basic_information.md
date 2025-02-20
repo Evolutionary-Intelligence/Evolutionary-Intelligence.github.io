@@ -14,6 +14,7 @@ This website mainly covers the following research topics:
   - **NeuroEvolution (NE)**
   - **Evolutionary Robotics (ER)**
   - **Quality-Diversity (QD)**
+  - **Population-Based Randomized/Stochastic Search**
 - **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
