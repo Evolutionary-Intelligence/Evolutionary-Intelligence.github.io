@@ -23,7 +23,7 @@ This website mainly covers the following research topics:
   - **Neural Swarm (NS)**, e.g.,
     - For Foundation Models: e.g.,
       - [Model Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Model-Swarm-University-of-Washington-and-Google-Cloud-AI-Research-and-DeepMind/)
-      - [Heterogeneous Swarm]()
+      - [Heterogeneous Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Heterogeneous-Swarm-University-of-Washington-and-Google-Cloud-AI-Research/)
     - For Flocking
     - etc.
 - **Artifical Life**
