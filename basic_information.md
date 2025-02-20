@@ -46,6 +46,8 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - Thanks very much for Prof. Wei-neng Chen and Prof. Sanaz Mostaghim (two Tutorial chairs)
 - Member in Program Committee of [**ALIFE 2025**](https://2025.alife.org/)
   - Thanks very much for Lana Sinapayen and Silvia Holler
+- 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
+  - With Dr. Qi Zhao etc.
 - 2025 **TMLR**: A Survery for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
 - 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
