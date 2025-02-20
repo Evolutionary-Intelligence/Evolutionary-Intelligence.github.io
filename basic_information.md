@@ -50,6 +50,8 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - With Dr. Qi Zhao etc.
 - 2025 **TMLR**: A Survery for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
+- 2024 ASOC (JCR Q1): **Convergence** Analysis of Cooperative Coevolution
+  - With Dr. Chang Shao etc.
 - 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
   Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
   - Thanks very much for Guochen Zhou and Chang Shao etc.
