@@ -16,4 +16,9 @@ please refer to [https://www.nature.com/collections/cgbgjbahac](https://www.natu
 
 Copyright of the Background Figure: [https://www.nature.com/collections/cgbgjbahac](https://www.nature.com/collections/cgbgjbahac).
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation):
+A summary of total number of visitors for
+[Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
+(News-Focused) and
+[DistributedEvolutionaryComputation](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation)
+(Paper-Focused).
