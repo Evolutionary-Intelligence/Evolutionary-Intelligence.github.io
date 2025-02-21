@@ -112,12 +112,6 @@ Congratulations on making it this far! You now have all the tools to easily buil
 
 - Remember that Beautiful Jekyll is built on top of Jekyll. This means that reading through the [Jekyll documentation](https://jekyllrb.com/) will introduce you to many more features that you might find useful!
 
-# Getting help
-
-Visit the [FAQ page](https://beautifuljekyll.com/faq) for answers to commonly asked questions.
-
-**If you choose to [become a sponsor](https://beautifuljekyll.com/plans/), you'll have access to my [office hours](https://beautifuljekyll.com/officehours/) where you can ask for help.** You can also use the [Discussions](https://github.com/daattali/beautiful-jekyll/discussions) area to try and get help from the community.
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation):
 A summary of total number of visitors for
 [Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
