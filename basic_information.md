@@ -15,8 +15,8 @@ This website mainly covers the following research topics:
     - **Evolution Strategies (ES)**
     - **Evolutionary Programming (EP)**
     - **Genetic Programming (GP)**
-    - **Distributed Evolutionary Algorithms (DEAs)**
-    - **Meta-Evolutionary Algorithms (MEAs)**
+    - **Parallel/Distributed EAs (DEA)**
+    - **Meta-EAs (MEA, AKA Multi-Level EA)**
   - **NeuroEvolution (NE)**: e.g.,
     - [Science Review in 2025 by Prof. Risto Miikkulainen](https://www.science.org/doi/10.1126/science.adp7478)
   - **Evolutionary Robotics (ER)**
