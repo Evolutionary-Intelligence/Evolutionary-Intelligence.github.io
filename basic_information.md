@@ -15,6 +15,7 @@ This website mainly covers the following research topics:
   - **Evolutionary Robotics (ER)**
   - **Quality-Diversity (QD)**
   - **Population-Based Randomized/Stochastic Search**
+  - **Evolvability**
 - **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
@@ -72,6 +73,27 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - From 2021: One of Core Members (Led by Prof. Shi) of Shenzhen Fundamental Research Program under Grant No.
   JCYJ20200109141235597 (*2,000,000 Yuan* to 2023) for **Distributed Evolutionary Algorithms**
 - 2018 PPSN (CCF-B): Distributed PSO on **Spark** 
+
+## Zhiwei Xu
+
+- Member in Program Committee of [**ACAIT2025**](https://2025.acaitconf.com/singer/426.html)
+- Session Chair of [**BIC-TA 2024**](http://2024.bicta.org/)
+- 2024 TEVC (CCF-B): Two-Stage Multi-Objective Evolution Strategy for Constrained Multi-Objective Optimization
+  - With Prof. Gary G. Yen and Prof. Kai Zhang
+- 2024 SCIS (CCF-A): Two-Stage Multimodal Multi-Objective Evolutionary Algorithm Based on Global Density Updating Strategy
+  - With Prof. Xingyi Zhang, Prof. Juanjuan He and Prof. Kai Zhang
+- 2024 ASOC (JCR Q1): Decision Variable Classification based Multi-Objective Multifactorial Memetic Algorithm for Multi-Objective Multi-Task Optimization Problem
+  - With Prof. Kai Zhang and Prof. Juanjuan He
+- 2022 INS (CCF-B): Cultural Transmission Based Multi-Objective Evolution Strategy for Evolutionary Multitasking
+  - With Prof. Kai Zhang and Prof. Juanjuan He
+- 2022 INS (CCF-B): A Novel Membrane-Inspired Evolutionary Framework for Multi-Objective Multi-Task Optimization Problems
+  - With Prof. Kai Zhang and Prof. Juanjuan He
+- 2021 ASOC (JCR Q1): Multiobjective Multifactorial Immune Algorithm for Multiobjective Multitask Optimization Problems
+  - With Prof. Kai Zhang
+- 2021 TCYB (CCF-B): Evolution Strategy-Based Many-Objective Evolutionary Algorithm Through Vector Equilibrium
+  - With Prof. Gary G. Yen, Prof. Shengli Xie, and Prof. Kai Zhang
+- 2021 TEVC (CCF-B): Two-Stage Double Niched Evolution Strategy for Multimodal Multiobjective Optimization
+  - With Prof. Gary G. Yen and Prof. Kai Zhang
 
 
 
