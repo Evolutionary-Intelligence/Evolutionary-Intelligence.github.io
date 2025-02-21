@@ -24,6 +24,8 @@ This website mainly covers the following research topics:
     - **Novelty Search**
   - **Population-Based Randomized/Stochastic Search**
   - **Evolvability**
+  - **Intersections between Foundation Model and EC**: e.g.,
+    - For **Mathematical Discoveries**: e.g., [Nature 2024 by DeepMind etc.](https://www.nature.com/articles/s41586-023-06924-6)
 - **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
