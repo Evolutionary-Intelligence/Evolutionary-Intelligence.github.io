@@ -95,6 +95,13 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - 2021 TEVC (CCF-B): Two-Stage Double Niched Evolution Strategy for Multimodal Multiobjective Optimization
   - With Prof. Gary G. Yen and Prof. Kai Zhang
 
+## Lijun Sun
+- 2023 INS (CCF-B): Toward multi-target self-organizing pursuit in a partially observable Markov game
+  - With Prof. Yuhui Shi, Prof. Chin-Teng Lin etc.
+- 2021 IEEE CEC: Multiple-preys pursuit based on biquadratic assignment problem
+  - With Prof. Yuhui Shi, Prof. Chin-Teng Lin etc.
+- 2020 ASOC (JCR Q1): Cooperative coevolution of real predator robots and virtual robots in the pursuit domain
+  - With Prof. Yuhui Shi etc.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation):
