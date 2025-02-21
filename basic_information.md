@@ -8,16 +8,17 @@ subtitle: Research Topics and Activities
 
 This website mainly covers the following research topics:
 
-- **Evolutionary Computation (EC)**
-  - **Evolutionary Algorithms**
-    - **Genetic Algorithms (GA)**
+- **Evolutionary Computation (EC)**: e.g.,
+  - **Evolutionary Algorithms (EA)**: e.g.,
+    - **Genetic Algorithms (GA)**:
       - **Differential Evolution (DE)**
     - **Evolution Strategies (ES)**
     - **Evolutionary Programming (EP)**
     - **Genetic Programming (GP)**
     - **Distributed Evolutionary Algorithms (DEAs)**
     - **Meta-Evolutionary Algorithms (MEAs)**
-  - **NeuroEvolution (NE)**
+  - **NeuroEvolution (NE)**: e.g.,
+    - [Science Review in 2025 by Prof. Risto Miikkulainen](https://www.science.org/doi/10.1126/science.adp7478)
   - **Evolutionary Robotics (ER)**
   - **Quality-Diversity (QD)**
     - **Novelty Search**
