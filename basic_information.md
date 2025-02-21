@@ -25,7 +25,9 @@ This website mainly covers the following research topics:
   - **Population-Based Randomized/Stochastic Search**
   - **Evolvability**
   - **Intersections between Foundation Model and EC**: e.g.,
-    - For **Mathematical Discoveries**: e.g., [Nature 2024 by DeepMind etc.](https://www.nature.com/articles/s41586-023-06924-6)
+    - **FunSearch**: e.g.,
+      - For **Symbolic Cognitive Models**: [2025 by DeepMind, Howard Hughes Medical Institute, Rockefeller University, Max Planck Institute for Biological Cybernetics, Princeton University, University College London, Columbia University](https://www.biorxiv.org/content/10.1101/2025.02.05.636732v1)
+      - For **Mathematical Discoveries**: [Nature 2024 by DeepMind etc.](https://www.nature.com/articles/s41586-023-06924-6)
 - **Swarm Intelligence (SI)**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
