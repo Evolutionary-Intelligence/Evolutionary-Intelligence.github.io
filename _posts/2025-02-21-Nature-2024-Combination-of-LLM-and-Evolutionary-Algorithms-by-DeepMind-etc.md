@@ -9,9 +9,11 @@ tags: [Distributed Evolutionary Algorithms, Evolutionary Algorithms, Genetic Pro
 author: Qiqi Duan
 ---
 
-**Romera-Paredes, B., Barekatain, M., Novikov, A., Balog, M., Kumar, M.P., Dupont, E., Ruiz, F.J., Ellenberg, J.S., Wang, P., Kohli, P. and Fawzi, O., 2024.
+- **Romera-Paredes, B., Barekatain, M., Novikov, A., Balog, M., Kumar, M.P., Dupont, E., Ruiz, F.J., Ellenberg, J.S., Wang, P., Kohli, P. and Fawzi, O., 2024.
   Mathematical discoveries from program search with large language models.
   Nature, 625(7995), pp.468-475.**
+
+Contents:
 
 * Distributed Evolutionary Algorithms
 
