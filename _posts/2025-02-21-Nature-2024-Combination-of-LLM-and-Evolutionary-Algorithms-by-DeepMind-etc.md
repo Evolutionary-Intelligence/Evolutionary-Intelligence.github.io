@@ -16,6 +16,7 @@ author: Qiqi Duan
 Contents:
 
 * Distributed Evolutionary Algorithms
+  * Island Model
 
 
 
