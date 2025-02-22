@@ -1,28 +1,5 @@
 # Website for [Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
 
-# Customizing parameters for each page
-
-**One last important thing**: In order to have your new pages use this template and not just be plain HTML pages, **you must add [YAML front matter](https://jekyllrb.com/docs/front-matter/) to the top of each page**:
-
-
-```
----
----
-```
-
-This is where you'll be able to give each page some extra parameters (such as a title, a subtitle, an image, etc - [below is a list of all parameters](#supported-parameters)). Add any parameters you want between these two dashed lines, for example:
-
-```
----
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
----
-```
-
-If you don't want to use any parameters on a page, you still need to use the two dashed lines. If you don't, then your file will be shown as-is without the Beautiful Jekyll template.
-
-You can look at the top of [`aboutme.md`](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/aboutme.md) as an example.
-
 **Important takeaway: ALWAYS add the YAML front matter, which is two lines of three dashes, to EVERY page. If you have any parameters, they go between the two lines.**
 
 # Supported parameters
