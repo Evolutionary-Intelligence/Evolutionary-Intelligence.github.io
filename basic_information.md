@@ -21,6 +21,7 @@ This website mainly covers the following research topics:
     - [Science Review in 2025 by Prof. Risto Miikkulainen](https://www.science.org/doi/10.1126/science.adp7478)
   - **Evolutionary Robotics (ER)**
   - **Quality-Diversity (QD)**
+    - For **Psychological Games**: [Nature Machine Intelligence 2025 by New York University](https://www.nature.com/articles/s42256-025-00981-4) 
     - **Novelty Search**
   - **Population-Based Randomized/Stochastic Search**
   - **Evolvability**
