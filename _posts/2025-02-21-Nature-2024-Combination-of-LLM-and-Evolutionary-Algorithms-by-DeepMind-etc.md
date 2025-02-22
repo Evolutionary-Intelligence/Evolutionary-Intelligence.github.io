@@ -17,6 +17,8 @@ Contents:
 
 * Distributed Evolutionary Algorithms
   * Island Model
+* Off-The-Shelf LLM
+  * Without Fine-Tuning
 
 
 
