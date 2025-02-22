@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mathematical discoveries from program search with large language models
+title: Mathematical Discoveries from Program Search with Large Language Models
 subtitle: "Nature-2024 by DeepMind etc."
 cover-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
 thumbnail-img: /assets/img/nationalgeographic_MelanieHaiken_NickDunlop.png
