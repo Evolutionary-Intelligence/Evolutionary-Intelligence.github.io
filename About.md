@@ -23,6 +23,7 @@ This website mainly covers the following research topics:
   - **Quality-Diversity (QD)**
     - For **Psychological Games**: [Nature Machine Intelligence 2025 by New York University](https://www.nature.com/articles/s42256-025-00981-4)
     - For **Self-Diagnosis Robots**: [Nature 2015 (Cover) by Antoine Cully, Jeff Clune, Danesh Tarapore, Jean-Baptiste Mouret](https://www.nature.com/articles/nature14422)
+    - Open-Source Library: **QDax** [JMLR 2024 from InstaDeep and Imperial College London](https://jmlr.org/papers/volume25/23-1027/23-1027.pdf)
     - **Novelty Search**
   - **Population-Based Randomized/Stochastic Search**
   - **Evolvability**
