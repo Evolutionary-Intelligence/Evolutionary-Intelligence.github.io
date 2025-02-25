@@ -31,7 +31,7 @@ This website mainly covers the following research topics:
     - **FunSearch**: e.g.,
       - For **Symbolic Cognitive Models**: [2025 by DeepMind, Howard Hughes Medical Institute, Rockefeller University, Max Planck Institute for Biological Cybernetics, Princeton University, University College London, Columbia University](https://www.biorxiv.org/content/10.1101/2025.02.05.636732v1)
       - For **Mathematical Discoveries**: [Nature 2024 by DeepMind, University of Wisconsin-Madison, University of Lyon](https://www.nature.com/articles/s41586-023-06924-6)
-- **Swarm Intelligence (SI)**
+- **Swarm Intelligence (SI) [aka Collective Intelligence]**
   - **Ant Colony Optimization (ACO)**
   - **Particle Swarm Optimization (PSO)**
   - **Consensus-Based Optimization (CBO)**
@@ -42,7 +42,7 @@ This website mainly covers the following research topics:
       - [Model Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Model-Swarm-University-of-Washington-and-Google-Cloud-AI-Research-and-DeepMind/)
       - [Heterogeneous Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Heterogeneous-Swarm-University-of-Washington-and-Google-Cloud-AI-Research/)
     - For Flocking
- - **Conceptual Models for SI**
+ - **Conceptual and philosophical Models for SI**
    - **TAME** — Technological Approach to Mind Everywhere (2022): [Michael Levin from Allen Discovery Center at Tufts University and Wyss Institute for Biologically Inspired Engineering at Harvard University](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full)
 - **Artifical Life**
   - **Open-Ended Evolution (OEE)**
