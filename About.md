@@ -42,7 +42,8 @@ This website mainly covers the following research topics:
       - [Model Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Model-Swarm-University-of-Washington-and-Google-Cloud-AI-Research-and-DeepMind/)
       - [Heterogeneous Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Heterogeneous-Swarm-University-of-Washington-and-Google-Cloud-AI-Research/)
     - For Flocking
-    - etc.
+ - **Conceptual Models for SI**
+   - **TAME** — Technological Approach to Mind Everywhere (2022): [Michael Levin from Allen Discovery Center at Tufts University and Wyss Institute for Biologically Inspired Engineering at Harvard University](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full)
 - **Artifical Life**
   - **Open-Ended Evolution (OEE)**
 - **Continual Learning**
