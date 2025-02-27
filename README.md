@@ -1,13 +1,5 @@
 # Website for [Evolutionary-Intelligence.github.io](https://evolutionary-intelligence.github.io/)
 
-# Supported parameters
-
-Below is a list of the parameters that Beautiful Jekyll supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings. If there's a parameter that you want to apply to the entire site instead of one specific page, check out [this FAQ answer](https://beautifuljekyll.com/faq/#default-params).
-
-## Main parameters
-
-These are the basic YAML parameters that you are most likely to use on most pages.
-
 Parameter   | Description
 ----------- | -----------
 title       | Page or blog post title
