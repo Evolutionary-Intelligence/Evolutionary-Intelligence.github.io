@@ -45,7 +45,8 @@ This website mainly covers the following research topics:
   - **Conceptual and philosophical Models for SI**
     - 2024 (**Multiscale Competency Architecture**): **Evolutionary Implications of Multi-Scale Intelligence** [Hartl, Risi, Levin](https://osf.io/preprints/osf/sp9kf_v1)
     - 2024 (**Multiscale Competency Architecture**): **Collective intelligence: A unifying concept for integrating biology across scales and substrates**: [McMillen&Levin, Communications Biology](https://www.nature.com/articles/s42003-024-06037-4)
-    - 2022: **TAME (Technological Approach to Mind Everywhere)**: [Michael Levin from Allen Discovery Center at Tufts University and Wyss Institute for Biologically Inspired Engineering at Harvard University](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full)
+    - 2022 **TAME (Technological Approach to Mind Everywhere)**: [Michael Levin from Allen Discovery Center at Tufts University and Wyss Institute for Biologically Inspired Engineering at Harvard University](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full)
+    - 2007 **Collective Minds**: [Nature by Couzin](https://www.nature.com/articles/445715a)
 - **Artifical Life**
   - **Open-Ended Evolution (OEE)**
 - **Continual Learning**
