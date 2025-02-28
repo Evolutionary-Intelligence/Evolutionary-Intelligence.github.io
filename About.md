@@ -49,7 +49,7 @@ This website mainly covers the following research topics:
     - 2022 **TAME (Technological Approach to Mind Everywhere)**: [Michael Levin from Allen Discovery Center at Tufts University and Wyss Institute for Biologically Inspired Engineering at Harvard University](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full)
       - "Nested Structurally and Functionally"
       - "Metabolic, Physiological, Morphological/Anatomical, Behavioral Space"
-      - "Collective Dynamics (homeodynamics vs homeostasis)"
+      - "Collective Dynamics (homeodynamics vs homeostasis): Cooperate and Compete"
       - "Diverse Intelligence"
       - "Robustness, Open-Endedness, Evolvability, Complexity"
     - 2007 **Collective Minds**: [Nature by Couzin](https://www.nature.com/articles/445715a)
