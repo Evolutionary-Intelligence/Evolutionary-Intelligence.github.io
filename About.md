@@ -50,6 +50,7 @@ This website mainly covers the following research topics:
       - "Nested Structurally and Functionally"
       - "Physiological, Morphological, Behavioral Space"
       - "Collective Dynamics (homeodynamics vs homeostasis)"
+      - "Diverse Intelligence"
     - 2007 **Collective Minds**: [Nature by Couzin](https://www.nature.com/articles/445715a)
 - **Artifical Life**
   - **Open-Ended Evolution (OEE)**
