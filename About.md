@@ -42,6 +42,7 @@ This website mainly covers the following research topics:
       - [Model Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Model-Swarm-University-of-Washington-and-Google-Cloud-AI-Research-and-DeepMind/)
       - [Heterogeneous Swarm](https://evolutionary-intelligence.github.io/2025-02-20-Heterogeneous-Swarm-University-of-Washington-and-Google-Cloud-AI-Research/)
     - For Flocking
+  - **Swarmalators**
   - **Conceptual and philosophical Models for SI**
     - 2024 (**Multiscale Competency Architecture**): **Evolutionary Implications of Multi-Scale Intelligence** [Hartl, Risi, Levin](https://osf.io/preprints/osf/sp9kf_v1)
     - 2024 (**Multiscale Competency Architecture**): Collective intelligence: A unifying concept for integrating biology across scales and substrates ([McMillen&Levin, Communications Biology, 28 March 2024](https://www.nature.com/articles/s42003-024-06037-4))
