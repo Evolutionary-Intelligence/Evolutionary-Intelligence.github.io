@@ -56,6 +56,7 @@ This website mainly covers the following research topics:
     - 2007 **Collective Minds**: [Nature by Couzin](https://www.nature.com/articles/445715a)
 - **Artifical Life**
   - **Open-Ended Evolution (OEE)**
+  - **Digital Embryogeny**: Competition for finite resources as coordination mechanism for morphogenesis: An evolutionary algorithm study of digital embryogeny
 - **Continual Learning**
 - **Complex Systems**
   - **Adaptive Complex Systems**
@@ -72,9 +73,8 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ## Qiqi Duan
 
-- IEEE CEC-2025 Tutorial: [**Meta-Evolution**: Biological Backgrounds, Design Principles, Meta-Diversity, and
-  Distributed
-  Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
+- IEEE CEC-2025 Tutorial: [**Meta-Evolution**: Biological Backgrounds, Design Principles, Meta-Diversity,
+  and Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. Yuhui Shi, Dr. Qi Zhao, Dr. Lijun Sun
   - Thanks very much for Prof. Wei-neng Chen and Prof. Sanaz Mostaghim (two Tutorial chairs)
 - Member in Program Committee of [**ALIFE 2025**](https://2025.alife.org/)
