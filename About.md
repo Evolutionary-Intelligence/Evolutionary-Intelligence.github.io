@@ -76,13 +76,13 @@ Each time the **HomePage** of this website selects a **specific** research activ
 #### Meta-Evolutionary Algorithms (MEA)
 
 - [2025] An Tutorial on IEEE-CEC:
-  [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and
-  Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
+  - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed
+    Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
   - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
 - [2024] One Full Paper on TPDS (**CCF-A**):
-  [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
-  Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
+  - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
+    Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 
 #### Artificial Life (ALife)
 
