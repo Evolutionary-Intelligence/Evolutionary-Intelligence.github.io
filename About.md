@@ -75,14 +75,17 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ### Meta-Evolutionary Algorithms (MEA)
 
-- [2025] An Tutorial on IEEE-CEC:
+- [2025] An Tutorial on *IEEE-CEC*:
   - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed
     Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
   - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
-- [2024] One Full Paper on TPDS (**CCF-A**):
+- [2024] One Full Paper on *TPDS* (**CCF-A**):
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
     Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
+- [2022] **Best Paper Nomination** for One Full Paper on *PPSN (CCF-B)*:
+  - [Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box
+    Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
 
 ### Distributed Evolutionary Computation (EC) and Swarm Intelligence (SI)
 
@@ -104,9 +107,6 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
   Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
   - Thanks very much for Guochen Zhou and Chang Shao etc.
-- 2022 **Best Paper Nomination** in one of *representative* EC conferences PPSN (CCF-B): [Collective Learning
-  of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
-  - More than 1K Accesses
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
 - 2018 PPSN (CCF-B): Distributed PSO on **Spark** 
