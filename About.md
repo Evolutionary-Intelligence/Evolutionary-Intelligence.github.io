@@ -75,14 +75,19 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 #### Meta-Evolutionary Algorithms (MEA)
 
-- 2025 Tutorial on IEEE-CEC: [**Meta-Evolution**: Biological Backgrounds, Design Principles, Meta-Diversity,
-  and Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
+- 2025 An Tutorial on IEEE-CEC:
+  [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and
+  Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
   - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
-- 2024 TPDS (CCF-A): [Distributed Evolution Strategies With **Multi-Level Learning** for Large-Scale
+- 2024 One Full Paper on TPDS (**CCF-A**):
+  [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
   Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
-- Member in Program Committee of [**ALIFE 2025**](https://2025.alife.org/)
-  - Thanks very much for Lana Sinapayen and Silvia Holler
+
+#### Artificial Life (ALife)
+
+- As the Reviewer of [**ALIFE 2025**](https://2025.alife.org/)
+  - Thanks very much for *Lana Sinapayen* and *Silvia Holler*
 - 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
 - 2025 **TMLR**: A Survery for Automatic Algorithm Design
