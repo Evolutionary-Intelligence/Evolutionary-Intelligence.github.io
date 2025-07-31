@@ -73,7 +73,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ## Qiqi Duan
 
-#### Meta-Evolutionary Algorithms (MEA)
+### Meta-Evolutionary Algorithms (MEA)
 
 - [2025] An Tutorial on IEEE-CEC:
   - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed
@@ -84,9 +84,15 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
     Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 
-#### Artificial Life (ALife)
+### Distributed Evolutionary Computation (EC) and Swarm Intelligence (SI)
 
-- [2025] As the Reviewer of [**ALIFE**](https://2025.alife.org/)
+- [2021 - 2023] Core Member of Shenzhen Fundamental Research Program:
+  - For **Distributed Evolutionary Algorithms (DEA)**
+  - A total of **2,000,000 Yuan**
+
+### Artificial Life (ALife)
+
+- [2025] As the Reviewer of [**ALIFE**](https://2025.alife.org/):
   - Thanks very much for *Lana Sinapayen* and *Silvia Holler*
 - 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
@@ -103,8 +109,6 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - More than 1K Accesses
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
-- From 2021: One of Core Members (Led by Prof. Shi) of Shenzhen Fundamental Research Program under Grant No.
-  JCYJ20200109141235597 (*2,000,000 Yuan* to 2023) for **Distributed Evolutionary Algorithms**
 - 2018 PPSN (CCF-B): Distributed PSO on **Spark** 
 
 ## Zhiwei Xu
