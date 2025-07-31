@@ -73,10 +73,14 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ## Qiqi Duan
 
-- IEEE CEC-2025 Tutorial: [**Meta-Evolution**: Biological Backgrounds, Design Principles, Meta-Diversity,
+#### Meta-Evolutionary Algorithms (MEA)
+
+- 2025 Tutorial on IEEE-CEC: [**Meta-Evolution**: Biological Backgrounds, Design Principles, Meta-Diversity,
   and Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
-  - With Prof. Yuhui Shi, Dr. Qi Zhao, Dr. Lijun Sun
-  - Thanks very much for Prof. Wei-neng Chen and Prof. Sanaz Mostaghim (two Tutorial chairs)
+  - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
+  - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
+- 2024 TPDS (CCF-A): [Distributed Evolution Strategies With **Multi-Level Learning** for Large-Scale
+  Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 - Member in Program Committee of [**ALIFE 2025**](https://2025.alife.org/)
   - Thanks very much for Lana Sinapayen and Silvia Holler
 - 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
@@ -89,8 +93,6 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
   Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
   - Thanks very much for Guochen Zhou and Chang Shao etc.
-- 2024 TPDS (CCF-A): [Distributed Evolution Strategies With **Multi-Level Learning** for Large-Scale Black-Box
-  Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 - 2022 **Best Paper Nomination** in one of *representative* EC conferences PPSN (CCF-B): [Collective Learning
   of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
   - More than 1K Accesses
