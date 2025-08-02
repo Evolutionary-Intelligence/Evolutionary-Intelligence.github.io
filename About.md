@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Research Topics and Activities
+subtitle: Members of Website Maintainers
 ---
 
 # Research Topics
@@ -69,8 +69,6 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - **2025**: [Applications of 30-Year CMA-ES from 1995 to 2025]()
 - **2025**: [A Seminar on 30-Year Particle Swarm Optimization (PSO) Inspired by Swarm Intelligence (SI) from 1995 to 2025](https://github.com/Evolutionary-Intelligence/PSO-30-SI)
 
-# Members of Core Maintainers
-
 ## Qiqi Duan
 
 ### Meta-Evolutionary Algorithms (MEA)
@@ -83,7 +81,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
 - [2024] One Full Paper on *TPDS* (**CCF-A**):
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
     Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
-- [2022] **Best Paper Nomination** for One Full Paper on *PPSN (CCF-B)*:
+- [2022] **Best Paper Nomination** for One Full Paper on *PPSN* (CCF-B):
   - [Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box
     Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
 
