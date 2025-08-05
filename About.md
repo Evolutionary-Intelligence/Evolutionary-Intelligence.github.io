@@ -109,6 +109,10 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - With Prof. Sanaz Mostaghim
 - 2018 PPSN (CCF-B): Distributed PSO on **Spark** 
 
+### As Journal Reviewers
+
+- [AI & SOCIETY](https://link.springer.com/journal/146)
+
 ## Zhiwei Xu
 
 - Member in Program Committee of [**ACAIT2025**](https://2025.acaitconf.com/singer/426.html)
