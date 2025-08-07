@@ -73,7 +73,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ### Meta-Evolutionary Algorithms (MEA)
 
-- [2025] An Tutorial on *IEEE-CEC*:
+- [2025] A Tutorial on *IEEE-CEC*:
   - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed
     Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
@@ -97,9 +97,9 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - For *Distributed Evolutionary Algorithms (DEA)*
   - A total of **2,000,000 Yuan**
 - [2018] One Full Paper on *PPSN* (CCF-B):
-  - [Spark clustering computing platform based parallel particle swarm optimizers
-    for computationally expensive global
-    optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
+  - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers
+    for Computationally Expensive Global
+    Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
 ### Artificial Life (ALife)
 
@@ -123,6 +123,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 - [ACM Transactions on Evolutionary Learning and Optimization]()
 - [AI & SOCIETY](https://link.springer.com/journal/146)
+- [Complex & Intelligent Systems]()
 
 ## Zhiwei Xu
 
