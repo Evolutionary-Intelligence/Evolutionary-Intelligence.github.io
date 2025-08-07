@@ -94,7 +94,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
   - [Distributed Evolution Strategies for Large-Scale
     Optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3528784)
 - [2021 - 2023] Core Member of Shenzhen Fundamental Research Program:
-  - For **Distributed Evolutionary Algorithms (DEA)**
+  - For *Distributed Evolutionary Algorithms (DEA)*
   - A total of **2,000,000 Yuan**
 - [2018] One Full Paper on *PPSN* (CCF-B):
   - [Spark clustering computing platform based parallel particle swarm optimizers
