@@ -87,12 +87,19 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ### Distributed Evolutionary Computation (EC) and Swarm Intelligence (SI)
 
+- [2024] One Full Paper on *TPDS* (**CCF-A**):
+  - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
+    Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 - [2022] A Companion Paper on *ACM-GECCO*:
   - [Distributed Evolution Strategies for Large-Scale
     Optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3528784)
 - [2021 - 2023] Core Member of Shenzhen Fundamental Research Program:
   - For **Distributed Evolutionary Algorithms (DEA)**
   - A total of **2,000,000 Yuan**
+- [2018] One Full Paper on *PPSN* (CCF-B):
+  - [Spark clustering computing platform based parallel particle swarm optimizers
+    for computationally expensive global
+    optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
 ### Artificial Life (ALife)
 
