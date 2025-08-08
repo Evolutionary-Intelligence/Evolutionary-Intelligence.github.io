@@ -71,9 +71,10 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ## Qiqi Duan
 
-**My long-term research goal is to build (fully open-source, massively evolved, self-adaptive, open-ended,
-distributed) neural-computing systems for recursively self-improving AI, self-replicating intelligent
-machines (robots), and emerging swarm intelligence.**
+**My long-term research goal is to build (fully open-source, multi-level evolved, self-adaptive, open-ended,
+distributed) neural-computing systems for recursively self-improving AI, bio-inspired Intelligent Machines
+(intelligent robots with meta-learning and continual learning), self-replicating Artificial Life, and
+emerging-focused Swarm Intelligence.**
 
 ### Meta-Evolutionary Algorithms (MEA)
 
