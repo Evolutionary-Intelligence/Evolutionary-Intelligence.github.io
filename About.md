@@ -71,6 +71,10 @@ Each time the **HomePage** of this website selects a **specific** research activ
 
 ## Qiqi Duan
 
+**My long-term research goal is to build fully open-source, massively evolved, self-adaptive, open-ended
+neural computing systems for recursively self-improving AI, self-replicating machines (robots), and
+emerging swarm intelligence.**
+
 ### Meta-Evolutionary Algorithms (MEA)
 
 - [2025] A Tutorial on *IEEE-CEC*:
