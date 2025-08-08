@@ -127,6 +127,7 @@ hierarchically emerging Swarm Intelligence.**
 ### As Journal Reviewers
 
 - [ACM Transactions on Evolutionary Learning and Optimization]()
+- [IEEE Transactions on Evolutionary Computation]()
 - [AI & SOCIETY](https://link.springer.com/journal/146)
 - [Complex & Intelligent Systems]()
 
