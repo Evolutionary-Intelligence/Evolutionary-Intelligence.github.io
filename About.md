@@ -74,7 +74,7 @@ Each time the **HomePage** of this website selects a **specific** research activ
 **My long-term research goal is to build (fully open-source, multi-level evolved, self-adaptive, open-ended,
 distributed) neural-computing systems for recursively self-improving AI, bio-inspired Intelligent Machines
 (intelligent robots with meta-learning and continual learning), self-replicating Artificial Life, and
-emerging-focused Swarm Intelligence.**
+hierarchically emerging Swarm Intelligence.**
 
 ### Meta-Evolutionary Algorithms (MEA)
 
