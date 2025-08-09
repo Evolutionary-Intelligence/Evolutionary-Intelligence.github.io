@@ -100,7 +100,7 @@ hierarchically emerging Swarm Intelligence.**
     Optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3528784)
 - [2021 - 2023] Core Member of Shenzhen Fundamental Research Program:
   - For *Distributed Evolutionary Algorithms (DEA)*
-  - A total of **2,000,000 Yuan**
+  - A total of **2,000,000 Yuan** (to my Ph.D. Advisor in SUSTech)
 - [2018] One Full Paper on *PPSN* (CCF-B):
   - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers
     for Computationally Expensive Global
