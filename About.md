@@ -76,6 +76,10 @@ distributed) neural-computing systems for recursively self-improving AI, bio-ins
 (intelligent robots with meta-learning and continual learning), self-replicating Artificial Life, and
 hierarchically emerging Swarm Intelligence.**
 
+### Open-Source Software for Population-Based Global Optimization
+
+- [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
+
 ### Meta-Evolutionary Algorithms (MEA)
 
 - [2025] A Tutorial on *IEEE-CEC*:
