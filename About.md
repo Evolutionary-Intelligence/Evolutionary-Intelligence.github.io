@@ -126,11 +126,11 @@ hierarchically emerging Swarm Intelligence.**
   - Thanks very much for Guochen Zhou and Chang Shao etc.
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
-- 2018 PPSN (CCF-B): Distributed PSO on **Spark** 
 
-### As Journal Reviewers
+### As One of Reviewers of The Following Journals
 
 - [ACM Transactions on Evolutionary Learning and Optimization]()
+- [IEEE Transactions on Cognitive and Developmental Systems]()
 - [IEEE Transactions on Evolutionary Computation]()
 - [AI & SOCIETY](https://link.springer.com/journal/146)
 - [Complex & Intelligent Systems]()
