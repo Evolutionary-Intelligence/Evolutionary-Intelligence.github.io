@@ -127,13 +127,14 @@ hierarchically emerging Swarm Intelligence.**
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
 
-### As One of Reviewers of The Following Journals
+### As One of Reviewers of The Following Journals and Conferences
 
 - [ACM Transactions on Evolutionary Learning and Optimization]()
 - [IEEE Transactions on Cognitive and Developmental Systems]()
 - [IEEE Transactions on Evolutionary Computation]()
 - [AI & SOCIETY](https://link.springer.com/journal/146)
 - [Complex & Intelligent Systems]()
+- [International Conference on Neural Information Processing]()
 
 ## Zhiwei Xu
 
