@@ -113,7 +113,7 @@ hierarchically emerging Swarm Intelligence.**
 ### Artificial Life (ALife)
 
 - [2025] As the Reviewer of [**ALIFE**](https://2025.alife.org/):
-  - Thanks very much for *Lana Sinapayen* and *Silvia Holler*
+  - Thanks very much for *Lana Sinapayen* (Sony CSL) and *Silvia Holler*
 - 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
 - 2025 **TMLR**: A Survery for Automatic Algorithm Design
@@ -127,13 +127,14 @@ hierarchically emerging Swarm Intelligence.**
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
 
-### As One of Reviewers of The Following Journals and Conferences
+### As One of Reviewers of Following Journals/Conferences
 
 - [ACM Transactions on Evolutionary Learning and Optimization]()
 - [IEEE Transactions on Cognitive and Developmental Systems]()
 - [IEEE Transactions on Evolutionary Computation]()
 - [AI & SOCIETY](https://link.springer.com/journal/146)
 - [Complex & Intelligent Systems]()
+- [ALIFE](https://2025.alife.org/)
 - [International Conference on Neural Information Processing]()
 
 ## Zhiwei Xu
