@@ -96,6 +96,9 @@ hierarchically emerging Swarm Intelligence.**
 
 ### Distributed Evolutionary Computation (EC) and Swarm Intelligence (SI)
 
+- [2026] [ANTS: International Conference on Swarm Intelligence (Swarm Robotics and Swarm Optimization)](https://ants2026.org/):
+  - As a Member of its PROGRAM COMMITTEE
+  - Thanks very much to Prof. *Roderich Gross* (General Chair)
 - [2024] One Full Paper on *TPDS* (**CCF-A**):
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
     Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
@@ -112,8 +115,6 @@ hierarchically emerging Swarm Intelligence.**
 
 ### Artificial Life (ALife)
 
-- [2025] As the Reviewer of [**ALIFE**](https://2025.alife.org/):
-  - Thanks very much for *Lana Sinapayen* (Sony CSL) and *Silvia Holler*
 - 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
 - 2025 **TMLR**: A Survery for Automatic Algorithm Design
@@ -135,6 +136,7 @@ hierarchically emerging Swarm Intelligence.**
 - [AI & SOCIETY](https://link.springer.com/journal/146)
 - [Complex & Intelligent Systems]()
 - [ALIFE](https://2025.alife.org/)
+  - Thanks very much for *Lana Sinapayen* (Sony CSL) and *Silvia Holler*
 - [International Conference on Neural Information Processing]()
 
 ## Zhiwei Xu
