@@ -51,12 +51,13 @@ Swarm Intelligence.**
 
 ### Distributed Swarm Intelligence (DSI)
 
-- [2025 - 2026] [ANTS: International Conference on Swarm Intelligence](https://ants2026.org/):
+- [2025 - 2026] [ANTS - International Conference on Swarm Intelligence](https://ants2026.org/):
   - As a Member of its PROGRAM COMMITTEE
-  - Thanks very much to Prof. *Roderich Gross* (General Chair)
-- [2018] One Full Paper on *PPSN* (CCF-B):
-  - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers
-    for Computationally Expensive Global
+  - Thanks very much to Prof. *Roderich Gross* (General Chair) and
+    *Julian Rau* (Paper Submission Chair)
+- [2018] One Full Paper on **PPSN (CCF-B)**:
+  - [Spark Clustering Computing Platform Based Parallel Particle
+    Swarm Optimizers for Computationally Expensive Global
     Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
 ### Artificial Life (ALife)
