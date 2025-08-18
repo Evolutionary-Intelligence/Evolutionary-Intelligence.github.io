@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Members of Website Maintainers
+subtitle: Blog Maintainers
 ---
 
 ## Qiqi Duan
