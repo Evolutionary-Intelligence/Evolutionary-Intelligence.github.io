@@ -14,7 +14,7 @@ meta-learning and continual learning), self-replicating
 Artificial Life, and hierarchically emerging
 Swarm Intelligence.**
 
-### Open-Source Software for Population-Based Global Optimization
+### Open-Source Software (OOS) for Population-Based Optimization (PBO)
 
 - [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
 
@@ -32,11 +32,13 @@ Swarm Intelligence.**
   - [Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box
     Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
 
-### Distributed Evolutionary Computation (EC) and Swarm Intelligence (SI)
+### Distributed Evolutionary Computation (DEC)
 
-- [2025 - 2026] [ANTS: International Conference on Swarm Intelligence](https://ants2026.org/):
-  - As a Member of its PROGRAM COMMITTEE
-  - Thanks very much to Prof. *Roderich Gross* (General Chair)
+- [2025] A Tutorial on *IEEE-CEC*:
+  - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed
+    Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
+  - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
+  - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
 - [2024] One Full Paper on *TPDS* (**CCF-A**):
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
     Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
@@ -46,6 +48,12 @@ Swarm Intelligence.**
 - [2021 - 2023] Core Member of Shenzhen Fundamental Research Program:
   - For *Distributed Evolutionary Algorithms (DEA)*
   - A total of **2,000,000 Yuan** (to my Ph.D. Advisor in SUSTech)
+
+### Distributed Swarm Intelligence (DSI)
+
+- [2025 - 2026] [ANTS: International Conference on Swarm Intelligence](https://ants2026.org/):
+  - As a Member of its PROGRAM COMMITTEE
+  - Thanks very much to Prof. *Roderich Gross* (General Chair)
 - [2018] One Full Paper on *PPSN* (CCF-B):
   - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers
     for Computationally Expensive Global
