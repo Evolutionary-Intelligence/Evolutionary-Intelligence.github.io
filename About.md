@@ -31,7 +31,7 @@ hierarchically emerging Swarm Intelligence.**
 
 ### Distributed Evolutionary Computation (EC) and Swarm Intelligence (SI)
 
-- [2026] [ANTS: International Conference on Swarm Intelligence (Swarm Robotics and Swarm Optimization)](https://ants2026.org/):
+- [2025 - 2026] [ANTS: International Conference on Swarm Intelligence](https://ants2026.org/):
   - As a Member of its PROGRAM COMMITTEE
   - Thanks very much to Prof. *Roderich Gross* (General Chair)
 - [2024] One Full Paper on *TPDS* (**CCF-A**):
