@@ -16,7 +16,11 @@ Swarm Intelligence.**
 
 ### Open-Source Software (OOS) for Population-Based Optimization (PBO)
 
-- [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
+- [2024] One MLOSS Paper on **JMLR (CCF-A)**:
+  - [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
+    Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
+  - With Ph.D. *Guochen Zhou* and Ph.D. *Chang Shao*, etc.
+  - [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
 
 ### Meta-Evolutionary Algorithms (MEA)
 
@@ -60,8 +64,6 @@ Swarm Intelligence.**
     Swarm Optimizers for Computationally Expensive Global
     Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
-### Artificial Life (ALife)
-
 - 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
   - With Dr. Qi Zhao etc.
 - 2025 **TMLR**: A Survery for Automatic Algorithm Design
@@ -69,9 +71,6 @@ Swarm Intelligence.**
 - 2024 PRICAI: **Box-Box Fine-Tuning** of LLMs (based on [Princeton's MeZO](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html))
 - 2024 ASOC (JCR Q1): **Convergence** Analysis of Cooperative Coevolution
   - With Dr. Chang Shao etc.
-- 2024 JMLR (CCF-A): [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
-  Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
-  - Thanks very much for Guochen Zhou and Chang Shao etc.
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
 
