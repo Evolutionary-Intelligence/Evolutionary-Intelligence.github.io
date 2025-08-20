@@ -29,7 +29,7 @@ Swarm Intelligence.**
     Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
   - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
-- [2024] One Full Paper on *TPDS* (**CCF-A**):
+- [2024] One Full Paper on **TPDS (CCF-A)**:
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
     Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 - [2022] **Best Paper Nomination** for One Full Paper on *PPSN* (CCF-B):
@@ -43,7 +43,7 @@ Swarm Intelligence.**
     Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
   - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
-- [2024] One Full Paper on *TPDS* (**CCF-A**):
+- [2024] One Full Paper on **TPDS (CCF-A)**:
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
     Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 - [2022] A Companion Paper on *ACM-GECCO*:
