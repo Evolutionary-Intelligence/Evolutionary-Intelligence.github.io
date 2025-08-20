@@ -14,7 +14,7 @@ meta-learning and continual learning), self-replicating
 Artificial Life, and hierarchically emerging
 Swarm Intelligence.**
 
-### Open-Source Software (OOS) for Population-Based Optimization (PBO)
+### Open-Source Software (OSS) for Population-Based Optimization (PBO)
 
 - [2024] One MLOSS Paper on **JMLR (CCF-A)**:
   - [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
