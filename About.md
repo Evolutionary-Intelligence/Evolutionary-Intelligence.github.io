@@ -20,6 +20,8 @@ Swarm Intelligence.**
   - [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
     Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
   - With Ph.D. *Guochen Zhou* and Ph.D. *Chang Shao*, etc.
+  - Applications & Citations (to name a few):
+    - [Veenstra et al., Nature, 2025](https://www.nature.com/articles/s41586-025-08646-3)
   - [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
 
 ### Meta-Evolutionary Algorithms (MEA)
