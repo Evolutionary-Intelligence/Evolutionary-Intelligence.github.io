@@ -71,7 +71,7 @@ Swarm Intelligence.**
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
 
-### As One of Reviewers of Following Journals/Conferences
+### As One Reviewer of Following Journals/Conferences
 
 - [ACM Transactions on Evolutionary Learning and Optimization]()
 - [IEEE Transactions on Cognitive and Developmental Systems]()
