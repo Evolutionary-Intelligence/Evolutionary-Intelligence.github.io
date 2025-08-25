@@ -66,11 +66,6 @@ Swarm Intelligence.**
     Swarm Optimizers for Computationally Expensive Global
     Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
-- 2025 TEVC (CCF-B): Learning for Automatic Algorithm Design
-  - With Dr. Qi Zhao etc.
-- 2025 **TMLR**: A Survery for Automatic Algorithm Design
-  - With Dr. Qi Zhao etc.
-- 2024 PRICAI: **Box-Box Fine-Tuning** of LLMs (based on [Princeton's MeZO](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html))
 - 2024 ASOC (JCR Q1): **Convergence** Analysis of Cooperative Coevolution
   - With Dr. Chang Shao etc.
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
@@ -83,6 +78,7 @@ Swarm Intelligence.**
 - [IEEE Transactions on Evolutionary Computation]()
 - [AI & SOCIETY](https://link.springer.com/journal/146)
 - [Complex & Intelligent Systems]()
+- [2025 - Deep Learning for Code Workshop (DL4C) @ NeurIPS 2025](https://dl4c.github.io/)
 - [ALIFE](https://2025.alife.org/)
   - Thanks very much for *Lana Sinapayen* (Sony CSL) and *Silvia Holler*
 - [International Conference on Neural Information Processing]()
