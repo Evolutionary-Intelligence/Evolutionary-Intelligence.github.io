@@ -25,7 +25,7 @@ Swarm Intelligence.**
   - [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
 
 For this research direction, the following journals/conferences are
-focused:
+focused on:
 
 - [Journal of Statistical Software](https://www.jstatsoft.org/index)
 
