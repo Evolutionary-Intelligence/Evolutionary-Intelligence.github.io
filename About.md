@@ -24,6 +24,11 @@ Swarm Intelligence.**
     - [[Veenstra et al., Nature, 2025]](https://www.nature.com/articles/s41586-025-08646-3)
   - [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
 
+For this research direction, the following journals/conferences are
+focused:
+
+- [Journal of Statistical Software](https://www.jstatsoft.org/index)
+
 ### Meta-Evolutionary Algorithms (MEA)
 
 - [2025] A Tutorial on *IEEE-CEC*:
