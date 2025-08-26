@@ -29,6 +29,7 @@ are focused on (to name a few):
 - [ACM Transactions on Mathematical Software](https://dl.acm.org/journal/toms)
 - [Journal of Statistical Software](https://www.jstatsoft.org/index)
 - [Journal of Open Source Software](https://joss.theoj.org/)
+- ACM GECCO (SESSION: Benchmarking, Benchmarks, Software and Reproducibility)
 
 ### Meta-Evolutionary Algorithms (MEA)
 
