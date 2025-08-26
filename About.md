@@ -19,14 +19,13 @@ Swarm Intelligence.**
 - [2024] One MLOSS Paper on **JMLR (CCF-A)**:
   - [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
     Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
-  - With Ph.D. *Guochen Zhou* and Ph.D. *Chang Shao*, etc.
+  - With Ph.D. *Guochen Zhou* and Ph.D. *Chang Shao*, Ph.D. *Yijun Yang* (Tencent Inc.,), etc.
   - Applications & Citations (to name a few):
     - [[Veenstra et al., Nature, 2025]](https://www.nature.com/articles/s41586-025-08646-3)
   - [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
 
 For this research direction OSS, the following journals/conferences
 are focused on (to name a few):
-
 - [ACM Transactions on Mathematical Software](https://dl.acm.org/journal/toms)
 - [Journal of Statistical Software](https://www.jstatsoft.org/index)
 - [Journal of Open Source Software](https://joss.theoj.org/)
