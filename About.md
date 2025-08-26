@@ -24,11 +24,12 @@ Swarm Intelligence.**
     - [[Veenstra et al., Nature, 2025]](https://www.nature.com/articles/s41586-025-08646-3)
   - [![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)
 
-For this research direction, the following journals/conferences are
-focused on:
+For this research direction OSS, the following journals/conferences
+are focused on (to name a few):
 
 - [ACM Transactions on Mathematical Software](https://dl.acm.org/journal/toms)
 - [Journal of Statistical Software](https://www.jstatsoft.org/index)
+- [Journal of Open Source Software](https://joss.theoj.org/)
 
 ### Meta-Evolutionary Algorithms (MEA)
 
