@@ -17,8 +17,7 @@ Swarm Intelligence.**
 ### Open-Source Software (OSS) for Population-Based Optimization (PBO)
 
 - [2024] One MLOSS Paper on **JMLR (CCF-A)**:
-  - [**PyPop7**: A Pure-Python Library for Population-Based Black-Box
-    Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
+  - [**PyPop7**: A Pure-Python Library for Population-Based Black-Box Optimization](https://www.jmlr.org/papers/v25/23-0386.html)
   - With Ph.D. *Guochen Zhou* and Ph.D. *Chang Shao*, Ph.D. *Yijun Yang* (Tencent Inc.), etc.
   - Applications & Citations (to name a few):
     - [[Veenstra et al., Nature, 2025]](https://www.nature.com/articles/s41586-025-08646-3)
@@ -32,33 +31,18 @@ are focused on (to name a few):
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - ACM GECCO (SESSION: Benchmarking, Benchmarks, Software and Reproducibility)
 
-### Meta-Evolutionary Algorithms (MEA)
+### Distributed Meta-Evolutionary Algorithms (MEA)
 
 - [2025] A Tutorial on *IEEE-CEC*:
-  - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed
-    Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
+  - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
   - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
   - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
 - [2024] One Full Paper on **TPDS (CCF-A)**:
-  - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
-    Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
+  - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
 - [2022] **Best Paper Nomination** for One Full Paper on *PPSN* (CCF-B):
-  - [Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box
-    Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
-
-### Distributed Evolutionary Computation (DEC)
-
-- [2025] A Tutorial on *IEEE-CEC*:
-  - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed
-    Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
-  - With Prof. *Yuhui Shi*, Dr. *Qi Zhao*, and Dr. *Lijun Sun*
-  - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
-- [2024] One Full Paper on **TPDS (CCF-A)**:
-  - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale
-    Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
+  - [Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
 - [2022] A Companion Paper on *ACM-GECCO*:
-  - [Distributed Evolution Strategies for Large-Scale
-    Optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3528784)
+  - [Distributed Evolution Strategies for Large-Scale Optimization](https://dl.acm.org/doi/abs/10.1145/3520304.3528784)
 - [2021 - 2023] Core Member of Shenzhen Fundamental Research Program:
   - For *Distributed Evolutionary Algorithms (DEA)*
   - A total of **2,000,000 Yuan** (to my Ph.D. Advisor in SUSTech)
