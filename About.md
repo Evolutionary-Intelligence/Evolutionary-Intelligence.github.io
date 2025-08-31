@@ -33,7 +33,7 @@ are focused on (to name a few):
 
 ### Distributed Meta-Evolutionary Algorithms (MEA)
 
-- [2025] A Speaker on LEAD (Workshop on Learning-assisted Evolutionary Algorithm Design)
+- [2025] A Speaker on *LEAD* (Workshop on Learning-assisted Evolutionary Algorithm Design):
   - In Chinese: [LEAD](https://sites.google.com/view/leadworkshop2025/)
 - [2025] A Tutorial on *IEEE-CEC*:
   - [Meta-Evolution: Biological Backgrounds, Design Principles, Meta-Diversity, and Distributed Implementations](https://upyun.hw.85do.com/cec2025/Tutorial/CEC%202025%20Tutorial-14-%20MetaEvolution.pdf)
