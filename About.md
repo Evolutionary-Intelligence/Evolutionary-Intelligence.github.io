@@ -27,6 +27,7 @@ For this research direction OSS, the following journals/conferences
 are focused on (just to name a few):
 - [ACM Transactions on Mathematical Software](https://dl.acm.org/journal/toms)
 - [Journal of Statistical Software](https://www.jstatsoft.org/index)
+- [INFORMS Journal on Computing (Software Tools)](https://pubsonline.informs.org/journal/ijoc)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [Neural Information Processing Systems Track on Datasets and Benchmarks](https://papers.nips.cc/)
