@@ -43,6 +43,8 @@ are focused on (just to name a few):
   - Thanks very much to Prof. *Wei-neng Chen* and Prof. *Sanaz Mostaghim* (As Tutorial Chairs)
 - [2024] One Full Paper on **TPDS (CCF-A)**:
   - [Distributed Evolution Strategies With Multi-Level Learning for Large-Scale Black-Box Optimization](https://ieeexplore.ieee.org/abstract/document/10621616)
+- [2024] One Full Paper on *ASOC* (JCR-Q1), which mainly extended One IEEE-CEC Paper in 2019:
+  - [Cooperative coevolution for non-separable large-scale black-box optimization: Convergence analyses and distributed accelerations](https://www.sciencedirect.com/science/article/abs/pii/S1568494624010068)
 - [2022] **Best Paper Nomination** for One Full Paper on *PPSN* (CCF-B):
   - [Collective Learning of Low-Memory Matrix Adaptation for Large-Scale Black-Box Optimization](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_20)
 - [2022] A Companion Paper on *ACM-GECCO*:
@@ -62,8 +64,6 @@ are focused on (just to name a few):
     Swarm Optimizers for Computationally Expensive Global
     Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
-- 2024 ASOC (JCR Q1): **Convergence** Analysis of Cooperative Coevolution
-  - With Dr. Chang Shao etc.
 - IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
   - With Prof. Sanaz Mostaghim
 
