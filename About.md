@@ -57,15 +57,11 @@ are focused on (just to name a few):
 
 - [2025 - 2026] [ANTS - International Conference on Swarm Intelligence](https://ants2026.org/):
   - As a Member of its PROGRAM COMMITTEE
-  - Thanks very much to Prof. *Roderich Gross* (General Chair) and
-    *Julian Rau* (Paper Submission Chair)
-- [2018] One Full Paper on **PPSN (CCF-B)**:
-  - [Spark Clustering Computing Platform Based Parallel Particle
-    Swarm Optimizers for Computationally Expensive Global
-    Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
-
-- IEEE SSCI-2021: **Session** Co-Chair of ACO/PSO/SR/SI for optimization problems
+  - Thanks very much to Prof. *Roderich Gross* (General Chair) and *Julian Rau* (Paper Submission Chair)
+- [2021] Co-Chair of Session SIS1/SIS2/SIS3/SIS4 in [IEEE SSCI](https://attend.ieee.org/ssci-2021/wp-content/uploads/sites/282/SSCI-2021-Final-Program-1.pdf):
   - With Prof. Sanaz Mostaghim
+- [2018] One Full Paper on *PPSN* (CCF-B):
+  - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers for Computationally Expensive Global Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
 ### As One Reviewer of Following Journals/Conferences
 
