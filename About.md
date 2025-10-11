@@ -6,7 +6,7 @@ subtitle: Blog Maintainers
 
 This website for **evolutionary and swarm Intelligence** was built
 by Dr. *Qiqi Duan* and Dr. *Hao Tong*, with kindly helps from
-Dr. *Lijun Sun* etc.
+Dr. *Lijun Sun*, Dr. *Zhiwei Xu* etc.
 
 ## Qiqi Duan
 
@@ -81,6 +81,15 @@ are focused on (just to name a few):
   - [PDF of ALIFE 2025 Proceedings](https://drive.google.com/file/d/1Y1FwzBt5Vp7HpDNvAjgoeOcGhRCAKAxy/view)
 - [International Conference on Neural Information Processing]()
 
+## Lijun Sun
+
+- 2023 INS (CCF-B): Toward multi-target self-organizing pursuit in a partially observable Markov game
+  - With Prof. Yuhui Shi, Prof. Chin-Teng Lin etc.
+- 2021 CEC: Multiple-preys pursuit based on biquadratic assignment problem
+  - With Prof. Yuhui Shi, Prof. Chin-Teng Lin etc.
+- 2020 ASOC (JCR-Q1): Cooperative coevolution of real predator robots and virtual robots in the pursuit domain
+  - With Prof. Yuhui Shi etc.
+
 ## Zhiwei Xu
 
 - Member in Program Committee of [**ACAIT2025**](https://2025.acaitconf.com/singer/426.html)
@@ -102,14 +111,6 @@ are focused on (just to name a few):
 - 2021 TEVC (CCF-B): Two-Stage Double Niched Evolution Strategy for Multimodal Multiobjective Optimization
   - With Prof. Gary G. Yen and Prof. Kai Zhang
 
-## Lijun Sun
-
-- 2023 INS (CCF-B): Toward multi-target self-organizing pursuit in a partially observable Markov game
-  - With Prof. Yuhui Shi, Prof. Chin-Teng Lin etc.
-- 2021 CEC: Multiple-preys pursuit based on biquadratic assignment problem
-  - With Prof. Yuhui Shi, Prof. Chin-Teng Lin etc.
-- 2020 ASOC (JCR-Q1): Cooperative coevolution of real predator robots and virtual robots in the pursuit domain
-  - With Prof. Yuhui Shi etc.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation):
