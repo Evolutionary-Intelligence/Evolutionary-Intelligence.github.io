@@ -108,7 +108,7 @@ are focused on (just to name a few):
   - With Prof. Kai Zhang
 - 2021 TCYB (CCF-B): Evolution Strategy-Based Many-Objective Evolutionary Algorithm Through Vector Equilibrium
   - With Prof. Gary G. Yen, Prof. Shengli Xie, and Prof. Kai Zhang
-- 2021 TEVC (CCF-B): Two-Stage Double Niched Evolution Strategy for Multimodal Multiobjective Optimization
+- 2021 TEVC (CCF-B): Two-stage double niched evolution strategy for multimodal multiobjective optimization
   - With Prof. Gary G. Yen and Prof. Kai Zhang
 
 
