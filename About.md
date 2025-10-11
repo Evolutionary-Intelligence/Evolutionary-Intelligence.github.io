@@ -5,7 +5,8 @@ subtitle: Blog Maintainers
 ---
 
 This website for **evolutionary and swarm Intelligence** was built
-by Dr. *Qiqi Duan* and Dr. *Hao Tong*.
+by Dr. *Qiqi Duan* and Dr. *Hao Tong*, with kindly helps from
+Dr. *Lijun Sun* etc.
 
 ## Qiqi Duan
 
