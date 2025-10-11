@@ -4,6 +4,9 @@ title: About
 subtitle: Blog Maintainers
 ---
 
+This website for **evolutionary and swarm Intelligence** was built
+by Dr. *Qiqi Duan* and Dr. *Hao Tong*.
+
 ## Qiqi Duan
 
 **My long-term research goal is to build (fully open-source,
