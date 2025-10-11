@@ -74,6 +74,7 @@ are focused on (just to name a few):
 - [2025 - Deep Learning for Code Workshop (DL4C) @ NeurIPS 2025](https://dl4c.github.io/)
 - [ALIFE 2025](https://2025.alife.org/)
   - Thanks very much to *Lana Sinapayen* (Sony CSL) and *Silvia Holler* (University of Trento)
+  - [PDF of ALIFE 2025 Proceedings](https://drive.google.com/file/d/1Y1FwzBt5Vp7HpDNvAjgoeOcGhRCAKAxy/view)
 - [International Conference on Neural Information Processing]()
 
 ## Zhiwei Xu
