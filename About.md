@@ -64,7 +64,7 @@ are focused on (just to name a few):
 - [2018] One Full Paper on *PPSN* (CCF-B):
   - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers for Computationally Expensive Global Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
-### As One Reviewer of Following Journals/Conferences
+### Reviewer of Some Journals and Conferences
 
 - [ACM Transactions on Evolutionary Learning and Optimization]()
 - [IEEE Transactions on Cognitive and Developmental Systems]()
@@ -72,8 +72,8 @@ are focused on (just to name a few):
 - [AI & SOCIETY](https://link.springer.com/journal/146)
 - [Complex & Intelligent Systems]()
 - [2025 - Deep Learning for Code Workshop (DL4C) @ NeurIPS 2025](https://dl4c.github.io/)
-- [ALIFE](https://2025.alife.org/)
-  - Thanks very much for *Lana Sinapayen* (Sony CSL) and *Silvia Holler*
+- [ALIFE 2025](https://2025.alife.org/)
+  - Thanks very much to *Lana Sinapayen* (Sony CSL) and *Silvia Holler* (University of Trento)
 - [International Conference on Neural Information Processing]()
 
 ## Zhiwei Xu
