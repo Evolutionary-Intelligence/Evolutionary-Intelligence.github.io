@@ -105,7 +105,7 @@ are focused on (just to name a few):
   - With Prof. Kai Zhang and Prof. Juanjuan He
 - 2021 ASOC (JCR Q1): Multiobjective Multifactorial Immune Algorithm for Multiobjective Multitask Optimization Problems
   - With Prof. Kai Zhang
-- 2021 TCYB (CCF-B): Evolution Strategy-Based Many-Objective Evolutionary Algorithm Through Vector Equilibrium
+- 2021 TCYB (CCF-B): Evolution strategy-based many-objective evolutionary algorithm through vector equilibrium
   - With Prof. Gary G. Yen, Prof. Shengli Xie, and Prof. Kai Zhang
 - 2021 TEVC (CCF-B): Two-stage double niched evolution strategy for multimodal multiobjective optimization
   - With Prof. Gary G. Yen and Prof. Kai Zhang
