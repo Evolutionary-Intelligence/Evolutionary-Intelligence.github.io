@@ -73,7 +73,7 @@ are focused on (just to name a few):
 - [ACM Transactions on Evolutionary Learning and Optimization]()
 - [IEEE Transactions on Cognitive and Developmental Systems]()
 - [IEEE Transactions on Evolutionary Computation]()
-- [AI & SOCIETY](https://link.springer.com/journal/146)
+- [AI & SOCIETY](https://link.springer.com/journal/146): 2025
 - [Complex & Intelligent Systems](https://link.springer.com/journal/40747)
 - [2025 - Deep Learning for Code Workshop (DL4C) @ NeurIPS 2025](https://dl4c.github.io/)
 - [2025 - ALIFE](https://2025.alife.org/)
