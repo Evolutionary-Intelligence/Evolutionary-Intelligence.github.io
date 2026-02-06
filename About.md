@@ -64,6 +64,11 @@ are focused on (just to name a few):
 - [2018] One Full Paper on *PPSN* (CCF-B):
   - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers for Computationally Expensive Global Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
+### As a Tutorial Organizer (From 2026)
+
+- [Multi-Scale Swarm Intelligence and Meta-Evolutionary Computation: A Unified Perspective](https://iasei.org/icsi2026/tutorials):
+  in ICSI [2026]()
+
 ### As a PC Member (From 2026)
 
 - [IJCAI - International Joint Conferences on Artificial Intelligence (CCF-A)]():
