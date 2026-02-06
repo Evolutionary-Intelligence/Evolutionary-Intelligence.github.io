@@ -68,8 +68,13 @@ are focused on (just to name a few):
 - [2018] One Full Paper on *PPSN* (CCF-B):
   - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers for Computationally Expensive Global Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
-### As Reviewer
+### As a PC Member (From 2026)
 
+- [IJCAI - International Joint Conferences on Artificial Intelligence](https://2026.ijcai.org): ECAI 2026
+
+### As a Reviewer (From 2026)
+
+- [IJCAI - International Joint Conferences on Artificial Intelligence](https://2026.ijcai.org): ECAI 2026
 - [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235): 2026
 
 
