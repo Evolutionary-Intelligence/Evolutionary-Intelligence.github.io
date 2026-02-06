@@ -67,7 +67,7 @@ are focused on (just to name a few):
 ### As a Tutorial Organizer (From 2026)
 
 - [Multi-Scale Swarm Intelligence and Meta-Evolutionary Computation: A Unified Perspective](https://iasei.org/icsi2026/tutorials):
-  ICSI [2026]()
+  ICSI [2026](https://iasei.org/icsi2026/), Chengdu, China
 
 ### As a PC Member (From 2026)
 
