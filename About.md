@@ -70,12 +70,17 @@ are focused on (just to name a few):
 
 ### As a PC Member (From 2026)
 
-- [IJCAI - International Joint Conferences on Artificial Intelligence](https://2026.ijcai.org): ECAI 2026
+- [IJCAI - International Joint Conferences on Artificial Intelligence (CCF-A)]():
+  Bremen, Germany (ECAI [2026](https://2026.ijcai.org))
+- [PPSN - International Conferences on Parallel Problem Solving From Nature (CCF-B)](https://ppsn2026.disi.unitn.it):
+  Trento, Italy (2026)
 
 ### As a Reviewer (From 2026)
 
-- [IJCAI - International Joint Conferences on Artificial Intelligence](https://2026.ijcai.org): ECAI 2026
-- [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235): 2026
+- [IJCAI - International Joint Conferences on Artificial Intelligence (CCF-A)](https://2026.ijcai.org):
+  Bremen, Germany (ECAI 2026)
+- [IEEE Transactions on Evolutionary Computation (CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
+  2026
 
 
 
