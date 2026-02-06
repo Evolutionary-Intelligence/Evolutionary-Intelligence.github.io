@@ -77,8 +77,8 @@ are focused on (just to name a few):
 
 ### As a Reviewer (From 2026)
 
-- [IJCAI - International Joint Conferences on Artificial Intelligence (CCF-A)](https://2026.ijcai.org):
-  Bremen, Germany (ECAI 2026)
+- [IJCAI - International Joint Conferences on Artificial Intelligence (CCF-A)]():
+  Bremen, Germany (ECAI [2026](https://2026.ijcai.org))
 - [IEEE Transactions on Evolutionary Computation (CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
   2026
 - [Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation): 2026
