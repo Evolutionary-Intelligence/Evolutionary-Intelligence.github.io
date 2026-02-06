@@ -81,6 +81,7 @@ are focused on (just to name a few):
   Bremen, Germany (ECAI 2026)
 - [IEEE Transactions on Evolutionary Computation (CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
   2026
+- [Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation): 2026
 
 
 
