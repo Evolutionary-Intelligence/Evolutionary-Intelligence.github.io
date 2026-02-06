@@ -72,8 +72,8 @@ are focused on (just to name a few):
 
 - [IJCAI - International Joint Conferences on Artificial Intelligence (CCF-A)]():
   Bremen, Germany (ECAI [2026](https://2026.ijcai.org))
-- [PPSN - International Conferences on Parallel Problem Solving From Nature (CCF-B)](https://ppsn2026.disi.unitn.it):
-  Trento, Italy (2026)
+- [PPSN - International Conferences on Parallel Problem Solving From Nature (CCF-B)]():
+  Trento, Italy ([2026](https://ppsn2026.disi.unitn.it))
 
 ### As a Reviewer (From 2026)
 
