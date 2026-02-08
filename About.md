@@ -82,6 +82,8 @@ are focused on (just to name a few):
 
 - [IJCAI - International Joint Conferences on Artificial Intelligence (CCF-A)](https://www.ijcai.org):
   ECAI, Bremen, Germany ([2026](https://2026.ijcai.org))
+- [PPSN - International Conferences on Parallel Problem Solving From Nature (CCF-B)]():
+  Trento, Italy ([2026](https://ppsn2026.disi.unitn.it))
 - [IEEE Transactions on Evolutionary Computation (CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
   2026
 - [Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation):
