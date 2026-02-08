@@ -88,6 +88,8 @@ are focused on (just to name a few):
   2026
 - [International Conference on Swarm Intelligence (ANTS)]():
   Darmstadt, Germany ([2026](https://ants2026.org))
+- IEEE Congress on Evolutionary Computation:
+  WCCI, Maastricht, Netherlands ([2026](https://attend.ieee.org/wcci-2026/))
 
 
 
