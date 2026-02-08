@@ -90,7 +90,9 @@ are focused on (just to name a few):
   2026
 - [International Conference on Swarm Intelligence (ANTS)]():
   Darmstadt, Germany ([2026](https://ants2026.org))
-- IEEE Congress on Evolutionary Computation:
+- [Artificial Life Conference](https://alife.org/conference/):
+  Waterloo, Canada ([2026](https://2026.alife.org))
+- IEEE Congress on Evolutionary Computation (CEC):
   WCCI, Maastricht, Netherlands ([2026](https://attend.ieee.org/wcci-2026/))
 
 
