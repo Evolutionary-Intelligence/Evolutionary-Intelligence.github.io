@@ -84,15 +84,15 @@ are focused on (just to name a few):
   ECAI, Bremen, Germany ([2026](https://2026.ijcai.org))
 - [PPSN - International Conferences on Parallel Problem Solving From Nature (CCF-B)]():
   Trento, Italy ([2026](https://ppsn2026.disi.unitn.it))
-- [IEEE Transactions on Evolutionary Computation (CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
+- [TEVC - IEEE Transactions on Evolutionary Computation (CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235):
   2026
 - [Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation):
   2026
-- [International Conference on Swarm Intelligence (ANTS)]():
+- [ANTS - International Conference on Swarm Intelligence]():
   Darmstadt, Germany ([2026](https://ants2026.org))
-- [Artificial Life Conference](https://alife.org/conference/):
+- [ALIFE - Artificial Life Conference](https://alife.org/conference/):
   Waterloo, Canada ([2026](https://2026.alife.org))
-- IEEE Congress on Evolutionary Computation (CEC):
+- CEC - IEEE Congress on Evolutionary Computation:
   WCCI, Maastricht, Netherlands ([2026](https://attend.ieee.org/wcci-2026/))
 
 
