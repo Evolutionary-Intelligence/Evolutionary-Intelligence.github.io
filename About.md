@@ -91,8 +91,8 @@ are focused on (just to name a few):
   Waterloo, Canada ([2026](https://2026.alife.org))
 - CEC - IEEE Congress on Evolutionary Computation:
   WCCI, Maastricht, Netherlands ([2026](https://attend.ieee.org/wcci-2026/))
-- Scientific Reports:
-  [2026](https://www.nature.com/srep/)
+- [Scientific Reports](https://www.nature.com/srep/):
+  2026
 
 ## Interesting Conferences, Workshops, Activities
 
