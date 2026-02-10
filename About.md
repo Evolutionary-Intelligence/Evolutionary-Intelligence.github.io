@@ -95,6 +95,11 @@ are focused on (just to name a few):
 - CEC - IEEE Congress on Evolutionary Computation:
   WCCI, Maastricht, Netherlands ([2026](https://attend.ieee.org/wcci-2026/))
 
+## Interesting Conferences, Workshops, Activities
+
+- Conference on Complex Systems:
+  [2026](http://ccs26.cssociety.org)
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation):
