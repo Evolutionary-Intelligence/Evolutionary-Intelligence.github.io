@@ -56,13 +56,8 @@ are focused on (just to name a few):
 
 ### Distributed Swarm Intelligence (DSI)
 
-- [2025 - 2026] [ANTS - International Conference on Swarm Intelligence](https://ants2026.org/):
-  - As a Member of its [PROGRAM COMMITTEE](https://ants2026.org/)
-  - Thanks very much to Prof. *Roderich Gross* (General Chair) and *Julian Rau* (Paper Submission Chair)
 - [2021] Co-Chair of Session SIS1/SIS2/SIS3/SIS4 in [IEEE SSCI](https://attend.ieee.org/ssci-2021/wp-content/uploads/sites/282/SSCI-2021-Final-Program-1.pdf):
   - With Prof. [Sanaz Mostaghim](https://www.ci.ovgu.de/)
-- [2018] One Full Paper on *PPSN* (CCF-B):
-  - [Spark Clustering Computing Platform Based Parallel Particle Swarm Optimizers for Computationally Expensive Global Optimization](https://link.springer.com/chapter/10.1007/978-3-319-99253-2_34)
 
 ### As a Tutorial Organizer (From 2026)
 
@@ -77,6 +72,8 @@ are focused on (just to name a few):
   Trento, Italy ([2026](https://ppsn2026.disi.unitn.it))
 - [International Conference on Swarm Intelligence (ANTS)]():
   Darmstadt, Germany ([2026](https://ants2026.org))
+- [ALIFE - Artificial Life Conference](https://alife.org/conference/):
+  Waterloo, Canada ([2026](https://2026.alife.org))
 
 ### As a Reviewer (From 2026)
 
